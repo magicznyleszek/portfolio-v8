@@ -1,0 +1,26 @@
+// modular scale
+// -------------
+$scale-main: 16;
+$scale-secondary: 20;
+$scale-fraction: 1/2;
+$scale-fraction-inverse: 1/$scale-fraction;
+
+// default settings
+// ----------------
+$font-size: 16px;
+$break-big: 960px;
+$break-small: 480px;
+
+// colors
+// ------
+$black: rgb(0,0,0);
+$white: rgb(255,255,255);
+$white-90: rgba($white, 0.9);
+
+// fonts
+// -----
+$source: "Source Sans Pro", sans-serif;
+
+// images
+// ------
+$background-pattern: url("../img/background-pattern.png");
