@@ -15,7 +15,13 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1;
 }
 h1 {
-    @include rem(font-size, 24px);
+    @include rem(font-size, 40px);
+}
+h2 {
+    @include rem(font-size, 32px);
+}
+h3 {
+    @include rem(font-size, 20px);
 }
 p {
 
