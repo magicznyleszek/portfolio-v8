@@ -8,10 +8,10 @@ amount: 3
 
 Projekt trzech ilustracji na zajęcia z Technik Graficznych z Krzyśkiem Molendą.
 
-* [![][40]][40]
-* [![][41]][41]
-* [![][42]][42]
+* [![][katecheza-1]][katecheza-1]
+* [![][katecheza-2]][katecheza-2]
+* [![][katecheza-3]][katecheza-3]
 
-[40]: {{ site.url }}/images/40.jpg
-[41]: {{ site.url }}/images/41.jpg
-[42]: {{ site.url }}/images/42.jpg
+[katecheza-1]: {{ site.url }}/images/katecheza-1.jpg
+[katecheza-2]: {{ site.url }}/images/katecheza-2.jpg
+[katecheza-3]: {{ site.url }}/images/katecheza-3.jpg
