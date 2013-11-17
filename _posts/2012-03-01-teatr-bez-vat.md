@@ -38,14 +38,14 @@ Właściwie główną działalnością Teatru Bez Vat są warsztaty teatralne pr
 
 * [![][109]][109]
 
-[106]: http://leszekpietrzak.com/images/106.jpg
-[107]: http://leszekpietrzak.com/images/107.jpg
-[108]: http://leszekpietrzak.com/images/108.jpg
-[109]: http://leszekpietrzak.com/images/109.jpg
-[110]: http://leszekpietrzak.com/images/110.jpg
-[111]: http://leszekpietrzak.com/images/111.jpg
-[112]: http://leszekpietrzak.com/images/112.jpg
-[113]: http://leszekpietrzak.com/images/113.jpg
-[114]: http://leszekpietrzak.com/images/114.jpg
-[115]: http://leszekpietrzak.com/images/115.jpg
-[120]: http://leszekpietrzak.com/images/120.jpg
+[106]: {{ site.url }}/images/106.jpg
+[107]: {{ site.url }}/images/107.jpg
+[108]: {{ site.url }}/images/108.jpg
+[109]: {{ site.url }}/images/109.jpg
+[110]: {{ site.url }}/images/110.jpg
+[111]: {{ site.url }}/images/111.jpg
+[112]: {{ site.url }}/images/112.jpg
+[113]: {{ site.url }}/images/113.jpg
+[114]: {{ site.url }}/images/114.jpg
+[115]: {{ site.url }}/images/115.jpg
+[120]: {{ site.url }}/images/120.jpg

@@ -14,12 +14,12 @@ Kształt logo można osadzić na kilkunastu prostych, ale nie wszystkie elementy
 
 * [![][45]][45]
 
-Oprócz logo powstała również [księga znaku](http://leszekpietrzak.com/file_download/1/fashion-week-book.pdf), a w środku takie słodkie piktogramy:
+Oprócz logo powstała również [księga znaku]({{ site.url }}/file_download/1/fashion-week-book.pdf), a w środku takie słodkie piktogramy:
 
 * [![][46]][46]
 
-[44]: http://leszekpietrzak.com/images/44.jpg
-[45]: http://leszekpietrzak.com/images/45.jpg
-[46]: http://leszekpietrzak.com/images/46.jpg
+[44]: {{ site.url }}/images/44.jpg
+[45]: {{ site.url }}/images/45.jpg
+[46]: {{ site.url }}/images/46.jpg
 
 Projekt logo na zajęcia z Identyfikacji Wizualnej z Wojtkiem Janickim.

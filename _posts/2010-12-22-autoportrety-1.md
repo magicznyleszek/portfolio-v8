@@ -17,11 +17,11 @@ To takie pierwsze konkretne rysunki z głowami Leszka. Wniosek wynika z nich tak
 * [![][251]][251]
 * [![][252]][252]
 
-[245]: http://leszekpietrzak.com/images/245.jpg
-[246]: http://leszekpietrzak.com/images/246.jpg
-[247]: http://leszekpietrzak.com/images/247.jpg
-[248]: http://leszekpietrzak.com/images/248.jpg
-[249]: http://leszekpietrzak.com/images/249.jpg
-[250]: http://leszekpietrzak.com/images/250.jpg
-[251]: http://leszekpietrzak.com/images/251.jpg
-[252]: http://leszekpietrzak.com/images/252.jpg
+[245]: {{ site.url }}/images/245.jpg
+[246]: {{ site.url }}/images/246.jpg
+[247]: {{ site.url }}/images/247.jpg
+[248]: {{ site.url }}/images/248.jpg
+[249]: {{ site.url }}/images/249.jpg
+[250]: {{ site.url }}/images/250.jpg
+[251]: {{ site.url }}/images/251.jpg
+[252]: {{ site.url }}/images/252.jpg

@@ -17,11 +17,11 @@ Rysunki starych ludzi są ciekawe, bo starzy ludzie mają zmarszczki, które są
 * [![][155]][155]
 * [![][156]][156]
 
-[149]: http://leszekpietrzak.com/images/149.jpg
-[150]: http://leszekpietrzak.com/images/150.jpg
-[151]: http://leszekpietrzak.com/images/151.jpg
-[152]: http://leszekpietrzak.com/images/152.jpg
-[153]: http://leszekpietrzak.com/images/153.jpg
-[154]: http://leszekpietrzak.com/images/154.jpg
-[155]: http://leszekpietrzak.com/images/155.jpg
-[156]: http://leszekpietrzak.com/images/156.jpg
+[149]: {{ site.url }}/images/149.jpg
+[150]: {{ site.url }}/images/150.jpg
+[151]: {{ site.url }}/images/151.jpg
+[152]: {{ site.url }}/images/152.jpg
+[153]: {{ site.url }}/images/153.jpg
+[154]: {{ site.url }}/images/154.jpg
+[155]: {{ site.url }}/images/155.jpg
+[156]: {{ site.url }}/images/156.jpg

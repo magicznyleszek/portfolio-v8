@@ -28,10 +28,10 @@ Tło do strony internetowej wpisujące się w całą retro koncepcję:
 
 * [![][97]][97]
 
-[90]: http://leszekpietrzak.com/images/90.png
-[91]: http://leszekpietrzak.com/images/91.png
-[93]: http://leszekpietrzak.com/images/93.png
-[94]: http://leszekpietrzak.com/images/94.png
-[95]: http://leszekpietrzak.com/images/95.png
-[96]: http://leszekpietrzak.com/images/96.png
-[97]: http://leszekpietrzak.com/images/97.png
+[90]: {{ site.url }}/images/90.png
+[91]: {{ site.url }}/images/91.png
+[93]: {{ site.url }}/images/93.png
+[94]: {{ site.url }}/images/94.png
+[95]: {{ site.url }}/images/95.png
+[96]: {{ site.url }}/images/96.png
+[97]: {{ site.url }}/images/97.png

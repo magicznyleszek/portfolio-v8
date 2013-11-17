@@ -12,6 +12,6 @@ Projekt trzech ilustracji na zajęcia z Technik Graficznych z Krzyśkiem Molend�
 * [![][41]][41]
 * [![][42]][42]
 
-[40]: http://leszekpietrzak.com/images/40.jpg
-[41]: http://leszekpietrzak.com/images/41.jpg
-[42]: http://leszekpietrzak.com/images/42.jpg
+[40]: {{ site.url }}/images/40.jpg
+[41]: {{ site.url }}/images/41.jpg
+[42]: {{ site.url }}/images/42.jpg

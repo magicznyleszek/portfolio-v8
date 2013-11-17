@@ -20,12 +20,12 @@ Można tu znaleźć wycieczki, ucieczki, wesołe zakłopotanie i wiarę w kosmon
 * [![][165]][165]
 * [![][166]][166]
 
-[158]: http://leszekpietrzak.com/images/158.jpg
-[159]: http://leszekpietrzak.com/images/159.jpg
-[160]: http://leszekpietrzak.com/images/160.jpg
-[161]: http://leszekpietrzak.com/images/161.jpg
-[162]: http://leszekpietrzak.com/images/162.jpg
-[163]: http://leszekpietrzak.com/images/163.jpg
-[164]: http://leszekpietrzak.com/images/164.jpg
-[165]: http://leszekpietrzak.com/images/165.jpg
-[166]: http://leszekpietrzak.com/images/166.jpg
+[158]: {{ site.url }}/images/158.jpg
+[159]: {{ site.url }}/images/159.jpg
+[160]: {{ site.url }}/images/160.jpg
+[161]: {{ site.url }}/images/161.jpg
+[162]: {{ site.url }}/images/162.jpg
+[163]: {{ site.url }}/images/163.jpg
+[164]: {{ site.url }}/images/164.jpg
+[165]: {{ site.url }}/images/165.jpg
+[166]: {{ site.url }}/images/166.jpg

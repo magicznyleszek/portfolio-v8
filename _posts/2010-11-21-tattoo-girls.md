@@ -18,12 +18,12 @@ Próbna seria jakby-kolorowanek z bujnymi dziewczętami i ich urokami. Tatuaże 
 * [![][198]][198]
 * [![][199]][199]
 
-[191]: http://leszekpietrzak.com/images/191.jpg
-[192]: http://leszekpietrzak.com/images/192.jpg
-[193]: http://leszekpietrzak.com/images/193.jpg
-[194]: http://leszekpietrzak.com/images/194.jpg
-[195]: http://leszekpietrzak.com/images/195.jpg
-[196]: http://leszekpietrzak.com/images/196.jpg
-[197]: http://leszekpietrzak.com/images/197.jpg
-[198]: http://leszekpietrzak.com/images/198.jpg
-[199]: http://leszekpietrzak.com/images/199.jpg
+[191]: {{ site.url }}/images/191.jpg
+[192]: {{ site.url }}/images/192.jpg
+[193]: {{ site.url }}/images/193.jpg
+[194]: {{ site.url }}/images/194.jpg
+[195]: {{ site.url }}/images/195.jpg
+[196]: {{ site.url }}/images/196.jpg
+[197]: {{ site.url }}/images/197.jpg
+[198]: {{ site.url }}/images/198.jpg
+[199]: {{ site.url }}/images/199.jpg

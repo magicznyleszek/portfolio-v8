@@ -18,7 +18,7 @@ Propozycje wizytówek:
 * [![][31]][31]
 * [![][32]][32]
 
-[29]: http://leszekpietrzak.com/images/29.jpg
-[30]: http://leszekpietrzak.com/images/30.jpg
-[31]: http://leszekpietrzak.com/images/31.jpg
-[32]: http://leszekpietrzak.com/images/32.jpg
+[29]: {{ site.url }}/images/29.jpg
+[30]: {{ site.url }}/images/30.jpg
+[31]: {{ site.url }}/images/31.jpg
+[32]: {{ site.url }}/images/32.jpg

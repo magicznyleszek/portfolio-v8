@@ -14,5 +14,5 @@ Miałem też potem taki pomysł, żeby wykorzystać dwustopniową kampanię prom
 
 * [![][169]][169]
 
-[168]: http://leszekpietrzak.com/images/168.png
-[169]: http://leszekpietrzak.com/images/169.png
+[168]: {{ site.url }}/images/168.png
+[169]: {{ site.url }}/images/169.png

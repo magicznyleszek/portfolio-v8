@@ -8,8 +8,8 @@ amount: 2
 
 Na zajęcia u pana Mirka zrobiłem plakat Juliusza Cezara, którego zabiła jego własna wielkość.
 
-* [![][263]][263]
-* [![][264]][264]
+* [![][juliusz-cezar-1]][juliusz-cezar-1]
+* [![][juliusz-cezar-2]][juliusz-cezar-2]
 
-[263]: http://leszekpietrzak.com/images/263.png
-[264]: http://leszekpietrzak.com/images/264.png
+[juliusz-cezar-1]: {{ site.url }}/images/juliusz-cezar-1.png
+[juliusz-cezar-2]: {{ site.url }}/images/juliusz-cezar-2.png

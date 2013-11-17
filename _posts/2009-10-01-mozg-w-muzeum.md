@@ -15,6 +15,6 @@ PS. Kolory, font i kształt mózgu trochę zmieniłem w porównaniu z oryginałe
 
 * [![][131]][131]
 
-[129]: http://leszekpietrzak.com/images/129.png
-[130]: http://leszekpietrzak.com/images/130.png
-[131]: http://leszekpietrzak.com/images/131.png
+[129]: {{ site.url }}/images/129.png
+[130]: {{ site.url }}/images/130.png
+[131]: {{ site.url }}/images/131.png
