@@ -10,15 +10,15 @@ Minimalistyczne logo o smukłej budowie związanej z geometrią koła. Znak "pta
 
 Przy wyrazie "Solutions" wykorzystany został zmodyfikowany font _Miso Bold_ -- jego budowa idealnie współgra z resztą logo. Brak majuskuły w pierwszej literze wprowadza równowagę i harmonię do całej kompozycji.
 
-* [![][29]][29]
-* [![][30]][30]
+* [![][pt-solutions-1]][pt-solutions-1]
+* [![][pt-solutions-2]][pt-solutions-2]
 
 Propozycje wizytówek:
 
-* [![][31]][31]
-* [![][32]][32]
+* [![][pt-solutions-3]][pt-solutions-3]
+* [![][pt-solutions-4]][pt-solutions-4]
 
-[29]: {{ site.url }}/images/29.jpg
-[30]: {{ site.url }}/images/30.jpg
-[31]: {{ site.url }}/images/31.jpg
-[32]: {{ site.url }}/images/32.jpg
+[pt-solutions-1]: {{ site.url }}/img/pt-solutions-1.jpg
+[pt-solutions-2]: {{ site.url }}/img/pt-solutions-2.jpg
+[pt-solutions-3]: {{ site.url }}/img/pt-solutions-3.jpg
+[pt-solutions-4]: {{ site.url }}/img/pt-solutions-4.jpg

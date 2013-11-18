@@ -8,18 +8,18 @@ amount: 3
 
 Delikatny kształt igły, a jednocześnie ostry i nowoczesny, przepleciony jest grubą nicią tradycji i doświadczenia poprzednich pokoleń. Z pomocą tego fundamentu, startujący obecnie projektanci mają zbudować przyszłość. Nie będziemy wyrzekać się korzeni, ale tą naszą obecną wiedzę poprowadzimy w wybranym przez nas kierunku. Niczym Prometeusz lub Adam Mickiewicz lub Xzibit.
 
-* [![][44]][44]
+* [![][fashion-week-1]][fashion-week-1]
 
 Kształt logo można osadzić na kilkunastu prostych, ale nie wszystkie elementy są zbudowane za pomocą podstawowych kształtów matematycznych. Igła i nić budująca literę "F" to twory czysto odręczne, jednak na tyle wyrafinowane, że świetnie wpisują się w geometrycznośc reszty logo.
 
-* [![][45]][45]
+* [![][fashion-week-2]][fashion-week-2]
 
-Oprócz logo powstała również [księga znaku]({{ site.url }}/file_download/1/fashion-week-book.pdf), a w środku takie słodkie piktogramy:
+Oprócz logo powstała również [księga znaku]({{ site.url }}/file/fashion-week-book.pdf), a w środku takie słodkie piktogramy:
 
-* [![][46]][46]
+* [![][fashion-week-3]][fashion-week-3]
 
-[44]: {{ site.url }}/images/44.jpg
-[45]: {{ site.url }}/images/45.jpg
-[46]: {{ site.url }}/images/46.jpg
+[fashion-week-1]: {{ site.url }}/img/fashion-week-1.jpg
+[fashion-week-2]: {{ site.url }}/img/fashion-week-2.jpg
+[fashion-week-3]: {{ site.url }}/img/fashion-week-3.jpg
 
 Projekt logo na zajęcia z Identyfikacji Wizualnej z Wojtkiem Janickim.

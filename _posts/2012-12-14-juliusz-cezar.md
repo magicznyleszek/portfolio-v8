@@ -11,5 +11,5 @@ Na zajęcia u pana Mirka zrobiłem plakat Juliusza Cezara, którego zabiła jego
 * [![][juliusz-cezar-1]][juliusz-cezar-1]
 * [![][juliusz-cezar-2]][juliusz-cezar-2]
 
-[juliusz-cezar-1]: {{ site.url }}/images/juliusz-cezar-1.png
-[juliusz-cezar-2]: {{ site.url }}/images/juliusz-cezar-2.png
+[juliusz-cezar-1]: {{ site.url }}/img/juliusz-cezar-1.png
+[juliusz-cezar-2]: {{ site.url }}/img/juliusz-cezar-2.png

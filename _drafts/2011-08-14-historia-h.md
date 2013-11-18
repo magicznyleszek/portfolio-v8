@@ -8,9 +8,9 @@ amount: 2
 
 Byłem ostatnio u Marty i gdzieś w międzyczasie, gdy dostały mi się w ręce kredki i papier, zacząłem się zastanawiać nad kształtem alfabetu. Brzmi pretensjonalnie, ale to nic. Przy pisaniu dużych liter jednym ruchem ręki pojedynczo (nie łącząc znaków), okazuje się, że nie każda z nich jest w stanie zachować swój oryginalny kształt.
 
-![Alfabet Leszka][alfabet]
+![Alfabet Leszka][historia-h-1]
 
-[alfabet]: http://leszekpietrzak.com/images/3.png
+[historia-h-1]: {{ site.url }}/img/historia-h-1.png
 
 Nasuwa się kilka obserwacji:
 
@@ -40,8 +40,8 @@ Znienawidzona przeze mnie (dla potrzeb argumentu) pozioma belka istniała już "
 
 O ile też dobrze pamiętam, to kaligrafowane H z podstawówki jest bardzo kochane i jakby potwierdza moją tezę o ukośnej szybkości.
 
-![Homofobia][homo]
+![Homofobia][historia-h-2]
 
-[homo]: http://leszekpietrzak.com/images/4.png
+[historia-h-2]: {{ site.url }}/img/historia-h-2.png
 
 Tutaj jednak problem rozwikłany jest bardzo skutecznie i bardzo naokoło -- przy takiej ilości zawijasów czasu na pewno nie zaoszczędzimy. Nie żeby czas był faktycznie marnowany i ważny. Nie żeby łezki w literach były faktycznie niefajne i bezzasadne.
