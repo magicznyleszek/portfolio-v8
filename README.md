@@ -1,3 +1,3 @@
 # smutnyleszek.github.io
 
-This is my personal portfolio that will be cnamed to leszekpietrzak.com
+This is my personal portfolio that will be finally used for leszekpietrzak.com domain.
