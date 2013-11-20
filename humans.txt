@@ -15,6 +15,6 @@ Tom Preston-Werner, Nick Quaranto: jekyllrb.com
 
 ## SITE
 
-Last update: 2013/11/11
+Last update: 20/11/2013
 Language: Polish, English
 Software: Sublime Text 2, Adobe Illustrator
