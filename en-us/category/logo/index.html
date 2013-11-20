@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h2>Illustration</h2>
+<h2>Logo</h2>
 
-{% for post in site.categories.illustration %}
-    {% if post.language == site.default-language %}
+{% for post in site.categories.logo %}
+    {% if post.language == "en-us" %}
         <article>
             <img src="/img/posts/{{ post.thumbnail }}" alt="">
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>

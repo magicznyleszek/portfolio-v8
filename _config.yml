@@ -1,15 +1,19 @@
+# description
 name: "Leszek Orzeszek"
 description: "Portfolio moje cośtam"
 author: "Leszek Pietrzak"
 
-# url: "http://localhost:4000"
-url: "http://smutnyleszek.github.io"
-
-paginate: 9000
-
-markdown: rdiscount
+# address settings
+url: "http://0.0.0.0:4000" #"http://smutnyleszek.github.io"
 permalink: /project/:title
 
+# site configuration
 encoding: UTF-8
-include: ['.htaccess']
+markdown: rdiscount
 future: true
+paginate: 9000
+include: ['.htaccess']
+
+#language settings
+default-language: "pl-pl"
+description-en-us: "Portfolio something stuff"

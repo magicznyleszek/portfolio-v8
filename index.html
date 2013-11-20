@@ -2,17 +2,19 @@
 layout: default
 ---
 
-<h2>Work</h2>
+<h2 id="work">Work</h2>
 
-{% for post in site.posts limit: 9000 %}
-    <article>
-        <a href="{{ post.url }}"><img src="{{ site.url }}/img/{{ post.thumbnail }}" alt=""></a>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {% for category in post.categories %}
-            <a href="{{ site.url }}/category/{{ category }}">{{ category }}</a>
-        {% endfor %}
-        <p>{{ post.amount }}</p>
-    </article>
+{% for post in site.posts %}
+    {% if post.language == site.default-language %}
+        <article>
+            <a href="{{ post.url }}"><img src="{{ site.url }}/img/{{ post.thumbnail }}" alt=""></a>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            {% for category in post.categories %}
+                <a href="{{ site.url }}/category/{{ category }}">{{ category }}</a>
+            {% endfor %}
+            <p>{{ post.amount }}</p>
+        </article>
+    {% endif %}
 {% endfor %}
 
 {% include about.html %}
