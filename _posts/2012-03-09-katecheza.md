@@ -7,7 +7,7 @@ layout: post
 language: pl-pl
 ---
 
-Projekt trzech ilustracji na zajęcia z Technik Graficznych z Krzyśkiem Molendą.
+Projekt trzech religijnych ilustracji na zajęcia z Technik Graficznych z Krzyśkiem Molendą.
 
 * [![][katecheza-1]][katecheza-1]
 * [![][katecheza-2]][katecheza-2]
