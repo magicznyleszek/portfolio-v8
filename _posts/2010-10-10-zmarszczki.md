@@ -1,9 +1,10 @@
 ---
 title: Zmarszczki
-layout: post
-categories: [illustration]
 thumbnail: zmarszczki-thumbnail.png
+categories: [illustration]
 amount: 8
+layout: post
+language: pl-pl
 ---
 
 Rysunki starych ludzi są ciekawe, bo starzy ludzie mają zmarszczki, które są kreskami. A te konkretne babcie i dziadkowie są z internetu, gdzie coraz częściej znajdują swój drugi dom, trzecią młodość i czwarty spam na skrzynce pocztowej na temat oferty pieniężnej od afrykańskiego księcia.

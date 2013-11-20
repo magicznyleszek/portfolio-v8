@@ -1,9 +1,10 @@
 ---
 title: Galeria Przychodnia
-layout: post
-categories: [website, poster]
 thumbnail: galeria-przychodnia-thumbnail.png
+categories: [website, poster]
 amount: 6
+layout: post
+language: pl-pl
 ---
 
 Galeria Przychodnia istniała przez rok czasu w Klubie Eskulap w Poznaniu, a ja miałem okazję być jej częścią. To taka ciekawa inicjatywa studencka łącząca kilka różnych uczelni ze sobą w działaniu. Skończyło się na "Finisażu" w ramach Mediations Biennale w CK Zamku. Ja dokładałem do Galerii swoje graficzne cegiełki.

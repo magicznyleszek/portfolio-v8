@@ -1,9 +1,10 @@
 ---
 title: Niezgrani
-layout: post
-categories: [illustration, logo]
 thumbnail: niezgrani-thumbnail.png
+categories: [illustration, logo]
 amount: 7
+layout: post
+language: pl-pl
 ---
 
 [Niezgrani.pl](http://niezgrani.pl) to niezależny portal o grach, specjalizujący się w nowościach ze światka, ale pamiętający o starych czasach. Zdecydowali się na logo nawiązujące do typografii ekranów tytułowych gier z okresu świetności Amigi i NESa. Nawet jest i joystick!

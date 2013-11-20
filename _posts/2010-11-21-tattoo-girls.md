@@ -1,9 +1,10 @@
 ---
 title: Tattoo Girls
-layout: post
-categories: [illustration]
 thumbnail: tattoo-girls-thumbnail.png
+categories: [illustration]
 amount: 9
+layout: post
+language: pl-pl
 ---
 
 Próbna seria jakby-kolorowanek z bujnymi dziewczętami i ich urokami. Tatuaże oczywiście zmywalne, rysowane codziennie -- bo przecież nikt sobie prawdziwych nie robi. Trochę kultury, penisków, przedmiotów życia codziennego i pozaziemskiego.

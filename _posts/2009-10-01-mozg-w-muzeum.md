@@ -1,9 +1,10 @@
 ---
 title: Mózg w muzeum
-layout: post
-categories: [logo]
 thumbnail: mozg-w-muzeum-thumbnail.png
+categories: [logo]
 amount: 3
+layout: post
+language: pl-pl
 ---
 
 Parę lat temu w ramach obowiązkowych praktyk na studiach wylądowałem w Muzeum Narodowym w Poznaniu, i poza kochanym przepisywaniem wyników ankiet miałem okazję zrobić logo i plakat dla akcji związanej z chyba nano-krypto-termo-neuro-biologią.

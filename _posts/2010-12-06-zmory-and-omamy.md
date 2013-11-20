@@ -1,9 +1,10 @@
 ---
 title: Zmory & omamy
-layout: post
-categories: [illustration]
 thumbnail: zmory-and-omamy-thumbnail.png
+categories: [illustration]
 amount: 9
+layout: post
+language: pl-pl
 ---
 
 Nie chcielibyście, by śniło się wam coś takiego i tym bardziej nie chcielibyście doświadczać wizji tego typu na jawie, co niestety miało miejsce w moim przypadku. Jedyną korzyścią jest ta skromna rysunkowa audycja rejestrująca wydarzenie. Niech służy jako przestroga.

@@ -1,9 +1,10 @@
 ---
 title: Katecheza
-layout: post
-categories: [illustration]
 thumbnail: katecheza-thumbnail.png
+categories: [illustration]
 amount: 3
+layout: post
+language: pl-pl
 ---
 
 Projekt trzech ilustracji na zajęcia z Technik Graficznych z Krzyśkiem Molendą.

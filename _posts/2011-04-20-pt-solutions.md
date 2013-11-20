@@ -1,9 +1,10 @@
 ---
 title: PT Solutions
-layout: post
-categories: [logo]
 thumbnail: pt-solutions-thumbnail.png
+categories: [logo]
 amount: 4
+layout: post
+language: pl-pl
 ---
 
 Minimalistyczne logo o smukłej budowie związanej z geometrią koła. Znak "ptaszka" nawiązuje do popularnego elementu formularzy internetowych oraz wskazuje obszar działalności i zapewnia o profesjonalizmie i rzetelności: "zadanie zostało wykonane". Zestawienie dwóch ramion oraz okręgu symbolizuje także tarczę zegara -- terminowość i poszanowanie czasu.

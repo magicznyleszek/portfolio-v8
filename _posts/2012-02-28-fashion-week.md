@@ -1,9 +1,10 @@
 ---
 title: Fashion Week
-layout: post
-categories: [logo, icon]
 thumbnail: fashion-week-thumbnail.png
+categories: [logo, icon]
 amount: 3
+layout: post
+language: pl-pl
 ---
 
 Delikatny kształt igły, a jednocześnie ostry i nowoczesny, przepleciony jest grubą nicią tradycji i doświadczenia poprzednich pokoleń. Z pomocą tego fundamentu, startujący obecnie projektanci mają zbudować przyszłość. Nie będziemy wyrzekać się korzeni, ale tą naszą obecną wiedzę poprowadzimy w wybranym przez nas kierunku. Niczym Prometeusz lub Adam Mickiewicz lub Xzibit.

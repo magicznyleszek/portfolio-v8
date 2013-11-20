@@ -1,9 +1,10 @@
 ---
 title: Juliusz Cezar
-layout: post
-categories: [illustration, poster]
 thumbnail: juliusz-cezar-thumbnail.png
+categories: [illustration, poster]
 amount: 2
+layout: post
+language: pl-pl
 ---
 
 Na zajęcia u pana Mirka zrobiłem plakat Juliusza Cezara, którego zabiła jego własna wielkość.

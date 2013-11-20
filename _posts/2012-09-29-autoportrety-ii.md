@@ -1,9 +1,10 @@
 ---
 title: Autoportrety II
-layout: post
-categories: [illustration]
 thumbnail: autoportrety-ii-thumbnail.png
+categories: [illustration]
 amount: 8
+layout: post
+language: pl-pl
 ---
 
 Druga seria portretów Leszka. Tym razem już bardziej hipsterskie i na temat, ale nadal zabawa z mieszaniną technik. Ponoć część z nich jest idealnie trafiona, a część zupełnie śmieszna -- niestety nie wiem, które gdzie należą.

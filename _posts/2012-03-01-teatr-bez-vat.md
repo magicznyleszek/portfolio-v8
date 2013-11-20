@@ -1,9 +1,10 @@
 ---
 title: Teatr Bez Vat
-layout: post
-categories: [logo, website, poster]
 thumbnail: teatr-bez-vat-thumbnail.png
+categories: [logo, website, poster]
 amount: 11
+layout: post
+language: pl-pl
 ---
 
 Z Teatrem Bez Vat współpracuję już kilka lat jako grafik zespołu. Zajmuje się plakatami, ulotkami, stroną internetową i właściwie całą identyfikacją wizualną -- właściwie na tyle długo, że już aktualizowałem pierwsze zaprojektowane logo:

@@ -1,9 +1,10 @@
 ---
 title: Autoportrety 1
-layout: post
-categories: [illustration]
 thumbnail: autoportrety-i-thumbnail.png
+categories: [illustration]
 amount: 8
+layout: post
+language: pl-pl
 ---
 
 To takie pierwsze konkretne rysunki z głowami Leszka. Wniosek wynika z nich taki, że głowy z głowy są gorsze, niż głowy z lustra -- co oczywiście nie znaczy, że pójdę po rozum do głowy i będę się stosował do tej rady... Ten ostatni jest dotychczas najbliższy fizycznie, choć psychicznie ma pewne braki.

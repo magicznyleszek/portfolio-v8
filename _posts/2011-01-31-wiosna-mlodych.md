@@ -1,9 +1,10 @@
 ---
 title: Wiosna Młodych
-layout: post
-categories: [poster, illustration]
 thumbnail: wiosna-mlodych-thumbnail.png
+categories: [poster, illustration]
 amount: 2
+layout: post
+language: pl-pl
 ---
 
 To jest plakat na konkurs ogłoszony przez Centrum Kultury Zamek w Poznaniu. I ta młodzież wtedy wyszła mi zbuntowana, alkoholowa, niszcząca mienie publiczne i niechętna do wąsów. Dwa wyraziste kolory, projektowanie pędzlem, stare dobre czasy sprzed roku.
