@@ -3,7 +3,7 @@ title: Juliusz Cezar
 thumbnail: juliusz-cezar-thumbnail.png
 categories: [illustration, poster]
 amount: 2
-layout: post
+layout: post.en-us
 language: en-us
 permalink: /en-us/project/juliusz-cezar
 ---
