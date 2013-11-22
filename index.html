@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 id="work">Praca</h2>
+<h2 id="projects">Projekty</h2>
 
 {% for post in site.posts %}
     {% if post.language == site.default-language %}
@@ -10,7 +10,7 @@ layout: default
             <a href="{{ post.url }}"><img src="{{ site.url }}/img/{{ post.thumbnail }}" alt=""></a>
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
             {% for category in post.categories %}
-                <a href="{{ site.url }}/category/{{ category }}">{{ category }}</a>
+                <a href="{{ site.url }}/category/{{ category }}"><span>{% include category-icon.html %}</span>{{ category }}</a>
             {% endfor %}
             <p>{{ post.amount }}</p>
         </article>
