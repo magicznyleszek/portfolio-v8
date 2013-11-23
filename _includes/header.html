@@ -34,14 +34,19 @@
 <body>
   
     <header>
-        <a href="/"><img src="{{ site.url }}/img/chmurka-logo.png" alt="chmurka logo"></a>
-        <nav>
-            <a href="/#menu">{{ site.icon-menu }}</a>
-            <li><a href="/#projects">{{ site.icon-projects }} Projekty</a></li>
-            <li><a href="/#me">{{ site.icon-me }} Ja</a></li>
-            <li><a href="/#contact">{{ site.icon-contact }} Kontakt</a></li>
-            <li><a href="/rss.xml">{{ site.icon-rss }} RSS</a></li>
-            <hr>
-            <li><a href="/en-us">{{ site.icon-language }} English</a></li>
+        <a href="/" id="logo">
+            {% include chmurka-logo.html %}
+        </a>
+        <nav id="menu">
+            <a href="#menu" class="open">{{ site.icon-menu }}</a>
+            <a href="#close" class="close">{{ site.icon-close }}</a>
+            <ul>
+                <li><a href="/#projects">{{ site.icon-projects }} Projekty</a></li>
+                <li><a href="/#me">{{ site.icon-me }} Ja</a></li>
+                <li><a href="/#contact">{{ site.icon-contact }} Kontakt</a></li>
+                <li><a href="/rss.xml">{{ site.icon-rss }} RSS</a></li>
+                <hr>
+                <li><a href="/en-us">{{ site.icon-language }} English</a></li>
+            </ul>
         </nav>
     </header>

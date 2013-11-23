@@ -2,34 +2,12 @@
 layout: default.en-us
 ---
 
-<h2 id="projects">Projects</h2>
+<header><h1 id="projects">{{ site.icon-projects }} Projects</h1></header>
 
 {% for post in site.posts %}
     {% if post.language == "en-us" %}
-        <article>
-            <a href="{{ post.url }}"><img src="{{ site.url }}/img/{{ post.thumbnail }}" alt=""></a>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            {% for category in post.categories %}
-                <a href="{{ site.url }}/en-us/category/{{ category }}">
-                    {{ category }}
-                    {% if category == 'logo' %}
-                        {{ site.icon-logo }}
-                    {% elsif category == 'website' %}
-                        {{ site.icon-website }}
-                    {% elsif category == 'illustration' %}
-                        {{ site.icon-illustration }}
-                    {% elsif category == 'poster' %}
-                        {{ site.icon-poster }}
-                    {% elsif category == 'typography' %}
-                        {{ site.icon-typography }}
-                    {% elsif category == 'icon' %}
-                        {{ site.icon-icon }}
-                    {% endif %}
-                </a>
-            {% endfor %}
-            <p>{{ post.amount }}</p>
-        </article>
+        {% include listed-project.html %}
     {% endif %}
 {% endfor %}
 
-{% include about.en-us.html %}
+{% include me.en-us.html %}

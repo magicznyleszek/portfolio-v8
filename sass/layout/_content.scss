@@ -1,13 +1,65 @@
+@mixin shadow-amount-hover($amount) {
+    &[data-amount="#{$amount}"]:hover {
+        @include box-shadow(rem($amount * 1px) rem($amount * 1px) 0 $boulder-lighter);
+    }
+}
 section.content {
-    // Here's where all important matter will be held.
-    article {
-        @media screen and (min-width: #{$break-small}) {
-            @include column(12,16);
+    padding: rem(10px);
+    header {
+        text-align: center;
+        h1 {
+            display: inline-block;
+            padding: rem(10px);
         }
     }
-    aside {
-        @media screen and (min-width: #{$break-small}) {
-            @include column(4,16);
+    h1, h2 {
+        margin-bottom: rem(10px);
+    }
+    article {
+        display: inline-block;
+        margin: rem(20px);
+        text-align: center;
+        h2 {
+            margin-top: rem(10px);
+        }
+        > a {
+            display: inline-block;
+            @include box-shadow(0 0 0 $boulder-lighter);
+            @include transition($fast);
+            @for $i from 1 through 20 {
+                @include shadow-amount-hover($i);
+            }
+        }
+        ul {
+            margin: 0;
+            li {
+                list-style: none;
+                display: inline-block;
+                position: relative;
+                a {
+                    display: inline-block;
+                    &:hover {
+                        span {
+                            @include opacity(1);
+                            visibility: visible;
+                        }
+                    }
+                    i {
+                        font-size: rem(20px);
+                    }
+                    span {
+                        display: block;
+                        color: $white;
+                        background-color: $cardinal;
+                        padding: 0 rem(10px);
+                        @include absolute (top rem(20px) left 0);
+                        @include opacity(0);
+                        visibility: hidden;
+                        @include transition($fast);
+                        @include box-shadow(rem(5px) rem(5px) 0 $boulder-lighter);
+                    }
+                }
+            }
         }
     }
 }

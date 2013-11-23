@@ -1,5 +1,18 @@
 body {
     min-height: 100%;
+    color: $boulder-darker;
+}
+a {
+    color: $crimson;
+    &:visited, &:active {
+        color: $violet;
+    }
+    &:hover {
+        color: $cardinal;
+    }
+}
+#projects:target, #me:target, #contact:target {
+    background-color: $boulder-lighter;
 }
 
 // custom resets

@@ -22,6 +22,7 @@ description-en-us: "Portfolio something stuff"
 
 # site icons
 icon-menu: '<i class="fa fa-bars"></i>'
+icon-close: '<i class="fa fa-times"></i>'
 icon-projects: '<i class="fa fa-archive"></i>'
 icon-me: '<i class="fa fa-quote-right"></i>'
 icon-contact: '<i class="fa fa-envelope"></i>'
@@ -29,9 +30,9 @@ icon-rss: '<i class="fa fa-rss"></i>'
 icon-language: '<i class="fa fa-flag"></i>'
 
 # category icons
-icon-logo: '<i class="fa fa-cloud"></i>'
-icon-website: '<i class="fa fa-globe"></i>'
+icon-icon: '<i class="fa fa-folder"></i>'
 icon-illustration: '<i class="fa fa-pencil"></i>'
+icon-logo: '<i class="fa fa-cloud"></i>'
 icon-poster: '<i class="fa fa-file"></i>'
 icon-typography: '<i class="fa fa-align-left"></i>'
-icon-icon: '<i class="fa fa-folder"></i>'
+icon-website: '<i class="fa fa-globe"></i>'

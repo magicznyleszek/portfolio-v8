@@ -1,27 +1,26 @@
 html {
-    font: 400 #{$font-size}/1.333 $source;
+    font: 400 #{$font-size}/1.5 $source;
     @media screen and (min-width: #{$break-big}) {
         font-size: floor($font-size * $scale-fraction-inverse);
     }
 }
-a, a:visited {
+a {
     outline: none;
-    text-decoration: underline;
-    &:hover {
-        text-decoration: none;
-    }
+    text-decoration: none;
 }
 h1, h2, h3, h4, h5, h6 {
     line-height: 1;
 }
 h1 {
-    @include rem(font-size, 40px);
+   font-size: rem(40px);
+   font-weight: 700;
 }
 h2 {
-    @include rem(font-size, 32px);
+   font-size: rem(32px);
+   font-weight: 700;
 }
 h3 {
-    @include rem(font-size, 20px);
+   font-size: rem(20px);
 }
 p {
 
@@ -30,7 +29,7 @@ blockquote {
     
 }
 ul, ol {
-    margin-left: 1.777em;
+    margin-left: rem(20px);
 }
 ul {
     list-style-type: disc;

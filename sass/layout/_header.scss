@@ -1,5 +1,75 @@
-header {
-    nav {
-        // I'm a main menu thingy!
+body > header {
+    text-align: center;
+    padding: rem(10px);
+    a#logo {
+        display: inline-block;
+        img, svg {
+            height: rem(160px);
+            width: rem(160px);
+        }
+        &:hover {
+            path {
+                fill: $crimson;
+            }
+        }
+        &:active {
+            path {
+                fill: $cardinal;
+            }
+        }
+    }
+    nav#menu {
+        @include fixed(top 0 right 0);
+        &:target {
+            a.open {
+                display: none;
+            }
+            a.close {
+                display: block;
+            }
+            ul {
+                @include opacity(1);
+                visibility: visible;
+            }
+        }
+        a {
+            color: $white;
+            background-color: $crimson;
+            line-height: rem(32px);
+            padding: 0 rem(10px);
+            display: block;
+            text-decoration: none;
+            text-align: left;
+            &:hover {
+                background-color: $cardinal;
+            }
+        }
+        a.close {
+            display: none;
+        }
+        ul {
+            height: auto;
+            margin: 0;
+            overflow: hidden;
+            background-color: $crimson;
+            @include absolute(top rem(20px) right 0);
+            @include opacity(0);
+            visibility: hidden;
+            @include transition($fast);
+            li {
+                display: block;
+                a {
+                    width: rem(128px);
+                }
+            }
+        }
+        hr {
+            display: block;
+            border: none;
+            width: 100%;
+            height: rem(1px);
+            background-color: $white;
+            margin: 0 auto;
+        }
     }
 }

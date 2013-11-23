@@ -2,19 +2,12 @@
 layout: default
 ---
 
-<h2 id="projects">Projekty</h2>
+<header><h1 id="projects">{{ site.icon-projects }} Projekty</h1></header>
 
 {% for post in site.posts %}
     {% if post.language == site.default-language %}
-        <article>
-            <a href="{{ post.url }}"><img src="{{ site.url }}/img/{{ post.thumbnail }}" alt=""></a>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            {% for category in post.categories %}
-                <a href="{{ site.url }}/category/{{ category }}"><span>{% include category-icon.html %}</span>{{ category }}</a>
-            {% endfor %}
-            <p>{{ post.amount }}</p>
-        </article>
+        {% include listed-project.html %}
     {% endif %}
 {% endfor %}
 
-{% include about.html %}
+{% include me.html %}
