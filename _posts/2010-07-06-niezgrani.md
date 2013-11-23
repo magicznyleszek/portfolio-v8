@@ -1,6 +1,6 @@
 ---
 title: Niezgrani
-thumbnail: niezgrani-thumbnail.png
+thumbnail: niezgrani-thumbnail.jpg
 categories: [illustration, logo]
 amount: 7
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Katecheza
-thumbnail: katecheza-thumbnail.png
+thumbnail: katecheza-thumbnail.jpg
 categories: [illustration]
 amount: 3
 layout: post

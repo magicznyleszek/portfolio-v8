@@ -1,6 +1,6 @@
 ---
 title: PT Solutions
-thumbnail: pt-solutions-thumbnail.png
+thumbnail: pt-solutions-thumbnail.jpg
 categories: [logo]
 amount: 4
 layout: post

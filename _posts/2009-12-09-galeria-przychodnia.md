@@ -1,6 +1,6 @@
 ---
 title: Galeria Przychodnia
-thumbnail: galeria-przychodnia-thumbnail.png
+thumbnail: galeria-przychodnia-thumbnail.jpg
 categories: [website, poster]
 amount: 6
 layout: post

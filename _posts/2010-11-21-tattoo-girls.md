@@ -1,6 +1,6 @@
 ---
 title: Tattoo Girls
-thumbnail: tattoo-girls-thumbnail.png
+thumbnail: tattoo-girls-thumbnail.jpg
 categories: [illustration]
 amount: 9
 layout: post

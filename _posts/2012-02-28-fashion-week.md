@@ -1,6 +1,6 @@
 ---
 title: Fashion Week
-thumbnail: fashion-week-thumbnail.png
+thumbnail: fashion-week-thumbnail.jpg
 categories: [logo, icon]
 amount: 3
 layout: post
