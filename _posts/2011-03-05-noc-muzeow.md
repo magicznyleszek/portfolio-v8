@@ -1,7 +1,7 @@
 ---
 title: Noc muzeów
 thumbnail: noc-muzeow-thumbnail.png
-categories: [poster, illustration]
+categories: [illustration, poster]
 amount: 1
 layout: post
 language: pl-pl

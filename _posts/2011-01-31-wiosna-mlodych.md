@@ -1,7 +1,7 @@
 ---
 title: Wiosna Młodych
 thumbnail: wiosna-mlodych-thumbnail.png
-categories: [poster, illustration]
+categories: [illustration, poster]
 amount: 2
 layout: post
 language: pl-pl
