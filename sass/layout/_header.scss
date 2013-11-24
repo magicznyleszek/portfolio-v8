@@ -48,13 +48,12 @@ body > header {
             display: none;
         }
         ul {
-            height: auto;
-            margin: 0;
-            overflow: hidden;
-            background-color: $crimson;
-            @include absolute(top rem(20px) right 0);
             @include opacity(0);
             visibility: hidden;
+            background-color: $crimson;
+            height: auto;
+            margin: 0;
+            @include absolute(top rem(20px) right 0);
             @include transition($fast);
             li {
                 display: block;
