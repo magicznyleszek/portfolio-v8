@@ -3,6 +3,11 @@
         @include box-shadow(rem($amount * 1px) rem($amount * 1px) 0 $boulder-lighter);
     }
 }
+section#main {
+    @media screen and (max-width: #{$break-small}) {
+        text-align: center;
+    }
+}
 section.content {
     padding: rem(10px);
     header {

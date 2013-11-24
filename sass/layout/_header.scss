@@ -28,8 +28,9 @@ body > header {
                 display: block;
             }
             ul {
-                @include opacity(1);
-                visibility: visible;
+                // @include opacity(1);
+                // visibility: visible;
+                display: block;
             }
         }
         a {
@@ -48,8 +49,9 @@ body > header {
             display: none;
         }
         ul {
-            @include opacity(0);
-            visibility: hidden;
+            // @include opacity(0);
+            // visibility: hidden;
+            display: none;
             background-color: $crimson;
             height: auto;
             margin: 0;
