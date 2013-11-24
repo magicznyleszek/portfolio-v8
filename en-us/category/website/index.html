@@ -2,10 +2,12 @@
 layout: default
 ---
 
-<h2>Website</h2>
+<header><h1 id="projects">{{ site.icon-website }} Website</h1></header>
 
-{% for post in site.categories.website %}
-    {% if post.language == "en-us" %}
-        {% include listed-project.html %}
-    {% endif %}
-{% endfor %}
+<section class="projects-list">
+    {% for post in site.categories.website %}
+        {% if post.language == "en-us" %}
+            {% include listed-project.html %}
+        {% endif %}
+    {% endfor %}
+</section>

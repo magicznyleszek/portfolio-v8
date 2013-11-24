@@ -2,10 +2,12 @@
 layout: default
 ---
 
-<h2>Ikona</h2>
+<header><h1 id="projects">{{ site.icon-icon }} Ikona</h1></header>
 
-{% for post in site.categories.icon %}
-    {% if post.language == site.default-language %}
-        {% include listed-project.html %}
-    {% endif %}
-{% endfor %}
+<section class="projects-list">
+    {% for post in site.categories.icon %}
+        {% if post.language == site.default-language %}
+            {% include listed-project.html %}
+        {% endif %}
+    {% endfor %}
+</section>

@@ -4,10 +4,12 @@ layout: default.en-us
 
 <header><h1 id="projects">{{ site.icon-projects }} Projects</h1></header>
 
-{% for post in site.posts %}
-    {% if post.language == "en-us" %}
-        {% include listed-project.html %}
-    {% endif %}
-{% endfor %}
+<section class="projects-list">
+    {% for post in site.posts %}
+        {% if post.language == "en-us" %}
+            {% include listed-project.html %}
+        {% endif %}
+    {% endfor %}
+</section>
 
 {% include me.en-us.html %}
