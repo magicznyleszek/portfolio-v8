@@ -5,9 +5,5 @@ layout: default
 <header><h1>{{ site.icon-website }} Website</h1></header>
 
 <section class="projects-list">
-    {% for post in site.categories.website %}
-        {% if post.language == "en-us" %}
-            {% include listed-project.html %}
-        {% endif %}
-    {% endfor %}
+    {% for post in site.categories.website %}{% if post.language == "en-us" %}{% include project-summary.html %}{% endif %}{% endfor %}
 </section>
