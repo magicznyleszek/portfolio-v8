@@ -1,15 +1,12 @@
-@mixin shadow-amount-hover($amount) {
-    &[data-amount="#{$amount}"]:hover {
-        @include box-shadow(rem($amount * 1px) rem($amount * 1px) 0 $boulder-lighter);
-    }
-}
 section.content {
-    padding: rem(20px);
+    padding: 0 rem(20px);
     header {
         text-align: center;
         h1 {
             display: inline-block;
-            padding: rem(10px);
+            line-height: 1;
+            padding: rem(20px);
+            margin: rem(10px) 0; // compensate for line-height 1
         }
     }
     section.projects-list {
@@ -22,11 +19,11 @@ section.content {
             > a {
                 display: inline-block;
                 line-height: 0;
-                // border: rem(2px) solid $boulder-lighter;
+                border: rem(2px) solid $boulder-lighter;
                 @include box-shadow(0 0 0 $boulder-lighter);
                 @include transition($fast);
-                @for $i from 1 through 20 {
-                    @include shadow-amount-hover($i);
+                &:hover {
+                    @include box-shadow(rem(5px) rem(5px) 0 $boulder-lighter);
                 }
             }
             ul {

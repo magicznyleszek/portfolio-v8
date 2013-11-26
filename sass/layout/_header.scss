@@ -3,6 +3,7 @@ body > header {
     padding: rem(10px);
     a#logo {
         display: inline-block;
+        line-height: 0;
         img, svg {
             height: rem(160px);
             width: rem(160px);
