@@ -4,7 +4,7 @@
     }
 }
 section.content {
-    padding: rem(10px);
+    padding: rem(20px);
     header {
         text-align: center;
         h1 {
@@ -12,24 +12,19 @@ section.content {
             padding: rem(10px);
         }
     }
-    h1, h2 {
-        margin-bottom: rem(10px);
-    }
     section.projects-list {
-        @media screen and (max-width: #{$break-small}) {
-            text-align: center;
-        }
+        text-align: center;
         article {
             display: inline-block;
-            margin: rem(20px);
+            padding: rem(20px);
+            vertical-align: bottom;
             text-align: center;
-            h2 {
-                margin-top: rem(10px);
-            }
             > a {
                 display: inline-block;
+                line-height: 0;
+                // border: rem(2px) solid $boulder-lighter;
                 @include box-shadow(0 0 0 $boulder-lighter);
-                // @include transition($fast);
+                @include transition($fast);
                 @for $i from 1 through 20 {
                     @include shadow-amount-hover($i);
                 }
@@ -42,7 +37,7 @@ section.content {
                     position: relative;
                     a {
                         display: inline-block;
-                        &:hover {
+                        &:hover, &:active {
                             span {
                                 @include opacity(1);
                                 visibility: visible;
