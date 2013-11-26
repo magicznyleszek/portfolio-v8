@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header><h1>{{ site.icon-website }} Strona internetowa</h1></header>
+<header><h1>{{ site.icon-website }} Strona</h1></header>
 
 <section class="projects-list">
     {% for post in site.categories.website %}{% if post.language == site.default-language %}{% include project-summary.html %}{% endif %}{% endfor %}
