@@ -26,3 +26,7 @@ a {
 img, embed, object, video {
     max-width: 100%;
 }
+::selection, ::-moz-selection {
+    color: $white;
+    background-color: $crimson;
+}
