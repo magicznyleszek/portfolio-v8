@@ -1,6 +1,7 @@
 # description
-name: "Leszek Orzeszek"
+name: "Smutnyleszek -- portfolio"
 description: "Portfolio moje cośtam"
+description-en-us: "Portfolio something stuff"
 author: "Leszek Pietrzak"
 
 # address settings
@@ -19,7 +20,6 @@ include: ['.htaccess']
 
 # language settings
 default-language: "pl-pl"
-description-en-us: "Portfolio something stuff"
 
 # site icons
 icon-menu: '<i class="fa fa-bars"></i>'

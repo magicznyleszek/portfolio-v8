@@ -7,14 +7,13 @@ Location: Warsaw, Poland
 
 ## THANKS
 
+Tom Preston-Werner, Nick Quaranto: jekyllrb.com
 Dave Gandy: fontawesome.io
 Christopher Eppstein: compass-style.org
 Faruk Ateş: modernizr.com
-John Resig: jquery.com
-Tom Preston-Werner, Nick Quaranto: jekyllrb.com
 
 ## SITE
 
-Last update: 20/11/2013
+Last update: 27/11/2013
 Language: Polish, English
 Software: Sublime Text 2, Adobe Illustrator

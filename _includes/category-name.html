@@ -1,16 +1,16 @@
 {% case category %}
-    {% when 'logo' %}
-        logo
-    {% when 'website' %}
-        strona
+    {% when 'icon' %}
+        ikona
     {% when 'illustration' %}
         ilustracja
+    {% when 'logo' %}
+        logo
     {% when 'poster' %}
         plakat
     {% when 'typography' %}
         typografia
-    {% when 'icon' %}
-        ikona
+    {% when 'website' %}
+        strona
     {% else %}
         {{ category }}
 {% endcase %}

@@ -3,7 +3,6 @@ layout: default
 ---
 
 <header><h1 id="projects">{{ site.icon-projects }} Projekty</h1></header>
-
 <section class="projects-list">
     {% for post in site.posts %}{% if post.language == site.default-language %}{% include project-summary.html %}{% endif %}{% endfor %}
 </section>

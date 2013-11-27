@@ -3,3 +3,6 @@ _site/
 
 ## ignore compass cache
 .sass-cache
+
+## please do
+.stupid-people
