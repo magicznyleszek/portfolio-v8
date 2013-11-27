@@ -1,29 +1,33 @@
-{% assign b = page.date | date: "%B" %}
-{% case b %}
-    {% when "January" %}
-        Styczeń
-    {% when "February" %}
-        Luty
-    {% when "March" %}
-        Marzec
-    {% when "April" %}
-        Kwiecień
-    {% when "May" %}
-        Maj
-    {% when "June" %}
-        Czerwiec
-    {% when "July" %}
-        Lipiec
-    {% when "August" %}
-        Sierpień
-    {% when "September" %}
-        Wrzesień
-    {% when "October" %}
-        Październik
-    {% when "November" %}
-        Listopad
-    {% when "December" %}
-        Grudzień
-    {% else %}
-{% endcase %}
-{{ page.date | date: "%Y" }}
+{% if include.language == "en-us" %}
+    {{ page.date | date: "%B %Y" }}
+{% else %}
+    {% assign b = page.date | date: "%B" %}
+    {% case b %}
+        {% when "January" %}
+            Styczeń
+        {% when "February" %}
+            Luty
+        {% when "March" %}
+            Marzec
+        {% when "April" %}
+            Kwiecień
+        {% when "May" %}
+            Maj
+        {% when "June" %}
+            Czerwiec
+        {% when "July" %}
+            Lipiec
+        {% when "August" %}
+            Sierpień
+        {% when "September" %}
+            Wrzesień
+        {% when "October" %}
+            Październik
+        {% when "November" %}
+            Listopad
+        {% when "December" %}
+            Grudzień
+        {% else %}
+    {% endcase %}
+    {{ page.date | date: "%Y" }}
+{% endif %}

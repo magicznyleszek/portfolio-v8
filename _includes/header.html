@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!--[if IE 8 ]><html class="ie8" lang="pl"><![endif]-->
+<!--[if IE 8 ]><html class="ie8" lang="{{ include.language }}"><![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!-->
-<html class="" lang="pl">
+<html class="" lang="{{ include.language }}">
 <!--<![endif]-->
 <head>
     <!-- stuff -->
@@ -11,17 +11,17 @@
 
     <!-- info -->
     <title>{{ site.name }}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{% if include.language == "en-us" %}{{ site.description-en-us }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
     <link rel="author" href="/humans.txt">
 
     <!-- style & viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/css/global.css?version=1" media="all" rel="stylesheet" type="text/css">
-    <link href="/css/print.css?version=1" media="print" rel="stylesheet" type="text/css">
-    <!--[if IE]><link href="/css/ie.css?version=1" media="all" rel="stylesheet" type="text/css"><![endif]-->
-    <link rel="shortcut icon" href="/favicon.ico?version=1">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png?version=1">
+    <link href="/css/global.css?version=3" media="all" rel="stylesheet" type="text/css">
+    <link href="/css/print.css?version=3" media="print" rel="stylesheet" type="text/css">
+    <!--[if IE]><link href="/css/ie.css?version=3" media="all" rel="stylesheet" type="text/css"><![endif]-->
+    <link rel="shortcut icon" href="/favicon.ico?version=3">
+    <link rel="apple-touch-icon" href="/favicon-152.png?version=3">
     
     <!-- fonts -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
@@ -33,19 +33,23 @@
 
 <body>
     <header>
-        <a href="/" id="logo">
+        <a href="{% if include.language == "en-us" %}/en-us{% else %}/{% endif %}" id="logo">
             {% include chmurka-logo.html %}
         </a>
         <nav id="menu">
             <a href="#menu" class="open">{{ site.icon-menu }}</a>
             <a href="#close" class="close">{{ site.icon-close }}</a>
             <ul>
-                <li><a href="/#projects">{{ site.icon-projects }} Projekty</a></li>
-                <li><a href="/#me">{{ site.icon-me }} Ja</a></li>
-                <li><a href="/#contact">{{ site.icon-contact }} Kontakt</a></li>
-                <li><a href="/rss.xml">{{ site.icon-rss }} RSS</a></li>
-                <hr>
-                <li><a href="/en-us">{{ site.icon-language }} English</a></li>
+                {% for link in site.data.navigation %}
+                    {% if forloop.last %}
+                        <hr>
+                    {% endif %}
+                    {% if include.language == "en-us" %}
+                        <li><a href="{{ link.url-en-us }}"><i class="fa {{ link.icon }}"></i> {{ link.name-en-us }}</a></li>
+                    {% else %}
+                        <li><a href="{{ link.url }}"><i class="fa {{ link.icon }}"></i> {{ link.name }}</a></li>
+                    {% endif %}
+                {% endfor %}
             </ul>
         </nav>
     </header>

@@ -1,0 +1,29 @@
+- name: Projekty
+  url: /#projects
+  name-en-us: Projects
+  url-en-us: /en-us/#projects
+  icon: fa-archive
+
+- name: Ja
+  url: /#me
+  name-en-us: Me
+  url-en-us: /en-us/#me
+  icon: fa-quote-right
+
+- name: Kontakt
+  url: /#contact
+  name-en-us: Contact
+  url-en-us: /en-us/#contact
+  icon: fa-envelope
+
+- name: RSS
+  url: /rss.xml
+  name-en-us: RSS
+  url-en-us: /en-us/rss.xml
+  icon: fa-rss
+
+- name: English
+  url: /en-us
+  name-en-us: Polski
+  url-en-us: /
+  icon: fa-flag
