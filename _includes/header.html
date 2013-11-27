@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--[if IE 8 ]><html class="ie8" lang="{{ include.language }}"><![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
 <html class="" lang="{{ include.language }}">
-<!--<![endif]-->
 <head>
     <!-- stuff -->
     <meta charset="utf-8">
@@ -19,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="/css/global.css?version=3" media="all" rel="stylesheet" type="text/css">
     <link href="/css/print.css?version=3" media="print" rel="stylesheet" type="text/css">
-    <!--[if IE]><link href="/css/ie.css?version=3" media="all" rel="stylesheet" type="text/css"><![endif]-->
+
+    <!-- icons -->
     <link rel="shortcut icon" href="/favicon.ico?version=3">
     <link rel="apple-touch-icon" href="/favicon-152.png?version=3">
     
@@ -33,7 +31,7 @@
 
 <body>
     <header>
-        <a href="{% if include.language == "en-us" %}/en-us{% else %}/{% endif %}" id="logo">
+        <a href="/{% if include.language == "en-us" %}en-us{% endif %}" id="logo">
             {% include chmurka-logo.html %}
         </a>
         <nav id="menu">

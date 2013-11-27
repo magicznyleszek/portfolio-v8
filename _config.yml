@@ -1,15 +1,13 @@
 # description
 name: "Smutnyleszek przedstawia"
 name-en-us: "Smutnyleszek presents"
-description: "Portfolio moje cośtam"
-description-en-us: "Portfolio something stuff"
+description: "Garść rysunków i projektów Leszka Pietrzaka."
+description-en-us: "A bunch of drawings and projects by Leszek Pietrzak."
 author: "Leszek Pietrzak"
 
 # address settings
-# url: "http://localhost:4000"
-# url: "http://smutnyleszek.github.io"
-# url: "http://0.0.0.0:4000"
-url: "http://leszekpietrzak.com"
+url: "http://0.0.0.0:4000"
+# url: "http://leszekpietrzak.com"
 permalink: /project/:title
 
 # site configuration
@@ -18,9 +16,6 @@ markdown: rdiscount
 future: true
 paginate: 9000
 include: ['.htaccess']
-
-# language settings
-default-language: "pl-pl"
 
 # site icons
 icon-menu: '<i class="fa fa-bars"></i>'

@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: default.en-us
 ---
 
 <header><h1>{{ site.icon-illustration }} Illustration</h1></header>
 
 <section class="projects-list">
-    {% for post in site.categories.illustration %}{% if post.language == "en-us" %}{% include project-summary.html %}{% endif %}{% endfor %}
+    {% for post in site.categories.illustration %}{% if post.language == "en-us" %}{% include project-summary.html language="en-us" %}{% endif %}{% endfor %}
 </section>

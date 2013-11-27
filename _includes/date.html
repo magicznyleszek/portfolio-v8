@@ -1,6 +1,4 @@
-{% if include.language == "en-us" %}
-    {{ page.date | date: "%B %Y" }}
-{% else %}
+{% if include.language == "pl-pl" %}
     {% assign b = page.date | date: "%B" %}
     {% case b %}
         {% when "January" %}
@@ -30,4 +28,6 @@
         {% else %}
     {% endcase %}
     {{ page.date | date: "%Y" }}
+{% else %}
+    {{ page.date | date: "%B %Y" }}
 {% endif %}

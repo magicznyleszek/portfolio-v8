@@ -5,5 +5,5 @@ layout: default
 <header><h1>{{ site.icon-poster }} Plakat</h1></header>
 
 <section class="projects-list">
-    {% for post in site.categories.poster %}{% if post.language == site.default-language %}{% include project-summary.html %}{% endif %}{% endfor %}
+    {% for post in site.categories.poster %}{% if post.language == "pl-pl" %}{% include project-summary.html language="pl-pl" %}{% endif %}{% endfor %}
 </section>
