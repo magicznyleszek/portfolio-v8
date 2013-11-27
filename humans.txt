@@ -10,7 +10,6 @@ Location: Warsaw, Poland
 Tom Preston-Werner, Nick Quaranto: jekyllrb.com
 Dave Gandy: fontawesome.io
 Christopher Eppstein: compass-style.org
-Faruk Ateş: modernizr.com
 
 ## SITE
 
