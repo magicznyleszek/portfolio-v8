@@ -11,21 +11,23 @@ Galeria Przychodnia istniała przez rok czasu w Klubie Eskulap w Poznaniu, a ja 
 
 Strona bardzo prosta, kilka miłych ikonek, uspokajający niebieski kolor -- niestety już nie działa:
 
-* [![][galeria-przychodnia-1]][galeria-przychodnia-1]
+[![Mockup strony internetowej][galeria-przychodnia-1]][galeria-przychodnia-1]
 
 Oferty były rozsyłane do mediów i potencjalnych sponsorów -- to jedna przykładowa z późniejszego okresu ([również w pdfku]({{ site.url }}/file_download/2/przychodnia-2.pdf)):
 
-* [![][galeria-przychodnia-2]][galeria-przychodnia-2]
+[![Oferta medialna][galeria-przychodnia-2]][galeria-przychodnia-2]
 
 Plakat z kasetami wisiał na mieście, tego drugiego niestety nie udało się wydrukować na czas.
 
-* [![][galeria-przychodnia-3]][galeria-przychodnia-3]
-* [![][galeria-przychodnia-4]][galeria-przychodnia-4]
+[![Plakat na Koniec kasety][galeria-przychodnia-3]][galeria-przychodnia-3]
+
+[![Plakat na Miłość & Sex][galeria-przychodnia-4]][galeria-przychodnia-4]
 
 A ten gadżet był niby-katalogiem do "Finisażu" -- złożone według zasad origami pudełko czekało na chętne dłonie i zawierało wszystkie atrakcje wystawy.
 
-* [![][galeria-przychodnia-5]][galeria-przychodnia-5]
-* [![][galeria-przychodnia-6]][galeria-przychodnia-6]
+[![Katalog wystawy][galeria-przychodnia-5]][galeria-przychodnia-5]
+
+[![3D render katalogu wystawy][galeria-przychodnia-6]][galeria-przychodnia-6]
 
 [galeria-przychodnia-1]: {{ site.url }}/img/galeria-przychodnia-1.jpg
 [galeria-przychodnia-2]: {{ site.url }}/img/galeria-przychodnia-2.jpg

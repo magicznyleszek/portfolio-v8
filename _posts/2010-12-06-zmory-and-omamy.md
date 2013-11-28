@@ -11,15 +11,23 @@ Nie chcielibyście, by śniło się wam coś takiego i tym bardziej nie chcielib
 
 Można tu znaleźć wycieczki, ucieczki, wesołe zakłopotanie i wiarę w kosmonautów. Również sporo podglądania i szperania i natykania się.
 
-* [![][zmory-and-omamy-1]][zmory-and-omamy-1]
-* [![][zmory-and-omamy-2]][zmory-and-omamy-2]
-* [![][zmory-and-omamy-3]][zmory-and-omamy-3]
-* [![][zmory-and-omamy-4]][zmory-and-omamy-4]
-* [![][zmory-and-omamy-5]][zmory-and-omamy-5]
-* [![][zmory-and-omamy-6]][zmory-and-omamy-6]
-* [![][zmory-and-omamy-7]][zmory-and-omamy-7]
-* [![][zmory-and-omamy-8]][zmory-and-omamy-8]
-* [![][zmory-and-omamy-9]][zmory-and-omamy-9]
+[![Mocarny sen][zmory-and-omamy-1]][zmory-and-omamy-1]
+
+[![Zmory & omamy 2][zmory-and-omamy-2]][zmory-and-omamy-2]
+
+[![Zmory & omamy 3][zmory-and-omamy-3]][zmory-and-omamy-3]
+
+[![Zmory & omamy 4][zmory-and-omamy-4]][zmory-and-omamy-4]
+
+[![Zmory & omamy 5][zmory-and-omamy-5]][zmory-and-omamy-5]
+
+[![Zmory & omamy 6][zmory-and-omamy-6]][zmory-and-omamy-6]
+
+[![Zmory & omamy 7][zmory-and-omamy-7]][zmory-and-omamy-7]
+
+[![Zmory & omamy 8][zmory-and-omamy-8]][zmory-and-omamy-8]
+
+[![Zmory & omamy 9][zmory-and-omamy-9]][zmory-and-omamy-9]
 
 [zmory-and-omamy-1]: {{ site.url }}/img/zmory-and-omamy-1.jpg
 [zmory-and-omamy-2]: {{ site.url }}/img/zmory-and-omamy-2.jpg

@@ -9,35 +9,39 @@ language: pl-pl
 
 Z Teatrem Bez Vat współpracuję już kilka lat jako grafik zespołu. Zajmuje się plakatami, ulotkami, stroną internetową i właściwie całą identyfikacją wizualną -- właściwie na tyle długo, że już aktualizowałem pierwsze zaprojektowane logo:
 
-* [![][teatr-bez-vat-1]][teatr-bez-vat-1]
+[![Nowe logo][teatr-bez-vat-1]][teatr-bez-vat-1]
 
 To była bardziej ekstremalna propozycja zmian:
 
-* [![][teatr-bez-vat-2]][teatr-bez-vat-2]
+[![Propozycja nowego logo][teatr-bez-vat-2]][teatr-bez-vat-2]
 
 A to stare, pierwsze logo:
 
-* [![][teatr-bez-vat-3]][teatr-bez-vat-3]
+[![Stare logo][teatr-bez-vat-3]][teatr-bez-vat-3]
 
 [Stronę internetową teatru](http://bezvat.art.pl/) zaprojektowałem w bardzo prostej formie, dzięki czemu treść wychodzi na plan pierwszy.
 
-* [![][teatr-bez-vat-11]][teatr-bez-vat-11]
+[![Strona internetowa][teatr-bez-vat-11]][teatr-bez-vat-11]
 
 Plakat i ulotka (awers + rewers) do ostatniego spektaklu teatru -- "Servitium".
 
-* [![][teatr-bez-vat-5]][teatr-bez-vat-5]
-* [![][teatr-bez-vat-6]][teatr-bez-vat-6]
-* [![][teatr-bez-vat-7]][teatr-bez-vat-7]
+[![Plakat Servitium][teatr-bez-vat-5]][teatr-bez-vat-5]
+
+[![Ulotka Servitium -- awers][teatr-bez-vat-6]][teatr-bez-vat-6]
+
+[![Ulotka Servitium -- rewers][teatr-bez-vat-7]][teatr-bez-vat-7]
 
 Plakat i ulotka do spektaklu "Od nowa (II)". Ulotka została tak zaprojektowana, żeby od rozmiaru A4 składała się na dwa razy.
 
-* [![][teatr-bez-vat-8]][teatr-bez-vat-8]
-* [![][teatr-bez-vat-9]][teatr-bez-vat-9]
-* [![][teatr-bez-vat-10]][teatr-bez-vat-10]
+[![Plakat Od Nowa (2)][teatr-bez-vat-8]][teatr-bez-vat-8]
+
+[![Ulotka Od Nowa (2) -- awers][teatr-bez-vat-9]][teatr-bez-vat-9]
+
+[![Ulotka Od Nowa (2) -- rewers][teatr-bez-vat-10]][teatr-bez-vat-10]
 
 Właściwie główną działalnością Teatru Bez Vat są warsztaty teatralne prowadzone przez Martę Świerkowską. To jeden z plakatów na takie zajęcia:
 
-* [![][teatr-bez-vat-4]][teatr-bez-vat-4]
+[![Plakat na warsztaty teatralne][teatr-bez-vat-4]][teatr-bez-vat-4]
 
 [teatr-bez-vat-1]: {{ site.url }}/img/teatr-bez-vat-1.jpg
 [teatr-bez-vat-2]: {{ site.url }}/img/teatr-bez-vat-2.jpg

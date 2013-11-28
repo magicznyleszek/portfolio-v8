@@ -10,9 +10,11 @@ permalink: /en-us/project/katecheza
 
 Three religious-themed illustrations for classes of Graphical Techniques with Krzysztof Molenda.
 
-* [![][katecheza-1]][katecheza-1]
-* [![][katecheza-2]][katecheza-2]
-* [![][katecheza-3]][katecheza-3]
+[![Boska Róża Inwigilacji][katecheza-1]][katecheza-1]
+
+[![Wieża Bajzel][katecheza-2]][katecheza-2]
+
+[![Księga Samuela][katecheza-3]][katecheza-3]
 
 [katecheza-1]: {{ site.url }}/img/katecheza-1.jpg
 [katecheza-2]: {{ site.url }}/img/katecheza-2.jpg
