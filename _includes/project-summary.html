@@ -3,7 +3,7 @@
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <ul>
         {% for category in post.categories %}
-            <li><a href="{% if include.language == "en-us" %}/en-us{% endif %}/category/{{ category }}">{% include category-icon.html %}<span>{% include category-name.html %}</span></a></li>
+            <li><a href="{% if include.language == "en-us" %}/en-us{% endif %}/category/{{ category }}">{% include category-icon.html %}<span>{% include category-name.html language="en-us" %}</span></a></li>
         {% endfor %}
     </ul>
 </article>

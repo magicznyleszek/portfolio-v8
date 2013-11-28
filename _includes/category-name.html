@@ -1,16 +1,20 @@
-{% case category %}
-    {% when 'icon' %}
-        ikona
-    {% when 'illustration' %}
-        ilustracja
-    {% when 'logo' %}
-        logo
-    {% when 'poster' %}
-        plakat
-    {% when 'typography' %}
-        typografia
-    {% when 'website' %}
-        strona
-    {% else %}
-        {{ category }}
-{% endcase %}
+{% if include.language == "pl-pl" %}
+    {% case category %}
+        {% when 'icon' %}
+            ikona
+        {% when 'illustration' %}
+            ilustracja
+        {% when 'logo' %}
+            logo
+        {% when 'poster' %}
+            plakat
+        {% when 'typography' %}
+            typografia
+        {% when 'website' %}
+            strona
+        {% else %}
+            {{ category }}
+    {% endcase %}
+{% else %}
+    {{ category }}
+{% endif %}
