@@ -10,9 +10,10 @@ Location: Warsaw, Poland
 Tom Preston-Werner, Nick Quaranto: jekyllrb.com
 Dave Gandy: fontawesome.io
 Christopher Eppstein: compass-style.org
+Chris Armstrong: goldilocksapproach.com
 
 ## SITE
 
-Last update: 27/11/2013
+Last update: 30/11/2013
 Language: Polish, English
 Software: Sublime Text 2, Adobe Illustrator
