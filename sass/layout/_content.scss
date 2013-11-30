@@ -64,4 +64,7 @@ section#post, section.me {
     p + p, p + blockquote, blockquote + p, p + ul, ul + p, blockquote + ul, ul + blockquote {
         margin-top: rem(24px);
     }
+    time {
+        font-size: rem(10px);
+    }
 }

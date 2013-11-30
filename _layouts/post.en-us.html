@@ -6,7 +6,7 @@
         
         {{ content }}
 
-        <small>{% include date.html language="en-us" %}</small>
+        <time datetime="{{ page.date }}">{% include date.html language="en-us" %}</time>
 
     </section>
 
