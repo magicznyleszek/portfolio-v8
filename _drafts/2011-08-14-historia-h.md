@@ -1,14 +1,15 @@
 ---
 title: Historia H
-layout: post
-categories: [typography]
 thumbnail: historia-h-thumbnail.png
+categories: [typography]
 amount: 2
+layout: post
+language: pl-pl
 ---
 
 Byłem ostatnio u Marty i gdzieś w międzyczasie, gdy dostały mi się w ręce kredki i papier, zacząłem się zastanawiać nad kształtem alfabetu. Brzmi pretensjonalnie, ale to nic. Przy pisaniu dużych liter jednym ruchem ręki pojedynczo (nie łącząc znaków), okazuje się, że nie każda z nich jest w stanie zachować swój oryginalny kształt.
 
-![Alfabet Leszka][historia-h-1]
+[![Alfabet Leszka][historia-h-1]][historia-h-1]
 
 [historia-h-1]: {{ site.url }}/img/historia-h-1.png
 
@@ -40,7 +41,7 @@ Znienawidzona przeze mnie (dla potrzeb argumentu) pozioma belka istniała już "
 
 O ile też dobrze pamiętam, to kaligrafowane H z podstawówki jest bardzo kochane i jakby potwierdza moją tezę o ukośnej szybkości.
 
-![Homofobia][historia-h-2]
+[![Homofobia][historia-h-2]][historia-h-2]
 
 [historia-h-2]: {{ site.url }}/img/historia-h-2.png
 

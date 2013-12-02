@@ -18,18 +18,18 @@ paginate: 9000
 include: ['.htaccess']
 
 # site icons
-icon-menu: '<i class="fa fa-bars"></i>'
-icon-close: '<i class="fa fa-times"></i>'
-icon-projects: '<i class="fa fa-archive"></i>'
-icon-me: '<i class="fa fa-quote-right"></i>'
-icon-contact: '<i class="fa fa-envelope"></i>'
-icon-rss: '<i class="fa fa-rss"></i>'
-icon-language: '<i class="fa fa-flag"></i>'
+icon-menu: '<i class="fa fa-bars fa-fw"></i>'
+icon-close: '<i class="fa fa-times fa-fw"></i>'
+icon-projects: '<i class="fa fa-archive fa-fw"></i>'
+icon-me: '<i class="fa fa-quote-right fa-fw"></i>'
+icon-contact: '<i class="fa fa-envelope fa-fw"></i>'
+icon-rss: '<i class="fa fa-rss fa-fw"></i>'
+icon-language: '<i class="fa fa-flag fa-fw"></i>'
 
 # category icons
-icon-icon: '<i class="fa fa-folder"></i>'
-icon-illustration: '<i class="fa fa-pencil"></i>'
-icon-logo: '<i class="fa fa-cloud"></i>'
-icon-poster: '<i class="fa fa-file"></i>'
-icon-typography: '<i class="fa fa-align-left"></i>'
-icon-website: '<i class="fa fa-globe"></i>'
+icon-icon: '<i class="fa fa-folder fa-fw"></i>'
+icon-illustration: '<i class="fa fa-pencil fa-fw"></i>'
+icon-logo: '<i class="fa fa-cloud fa-fw"></i>'
+icon-poster: '<i class="fa fa-file fa-fw"></i>'
+icon-typography: '<i class="fa fa-align-left fa-fw"></i>'
+icon-website: '<i class="fa fa-globe fa-fw"></i>'

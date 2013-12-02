@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header><h1>{{ site.icon-typography }} Typografia</h1></header>
+<h1>{{ site.icon-typography }} Typografia</h1>
 
 <section class="projects-list">
     {% for post in site.categories.typography %}{% if post.language == "pl-pl" %}{% include project-summary.html language="pl-pl" %}{% endif %}{% endfor %}

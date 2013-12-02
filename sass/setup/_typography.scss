@@ -27,7 +27,10 @@ p {
 
 }
 blockquote {
-    
+    font-style: italic;
+    cite {
+        font-style: normal;
+    }
 }
 ul, ol {
     margin-left: rem(20px);

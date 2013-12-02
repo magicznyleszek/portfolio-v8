@@ -11,18 +11,9 @@ a {
         color: $cardinal;
     }
 }
-#projects:target, #me:target, #contact:target {
-    background-color: $boulder-lighter;
-}
 
 // custom resets
 // -------------
-:focus {
-    outline: none;
-}
-::-moz-focus-inner {
-    border: 0;
-}
 img, embed, object, video {
     max-width: 100%;
 }

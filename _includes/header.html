@@ -40,9 +40,9 @@
                         <hr>
                     {% endif %}
                     {% if include.language == "en-us" %}
-                        <li><a href="{{ link.url-en-us }}"><i class="fa {{ link.icon }}"></i> {{ link.name-en-us }}</a></li>
+                        <li><a href="{{ link.url-en-us }}"><i class="fa {{ link.icon }} fa-fw"></i> {{ link.name-en-us }}</a></li>
                     {% else %}
-                        <li><a href="{{ link.url }}"><i class="fa {{ link.icon }}"></i> {{ link.name }}</a></li>
+                        <li><a href="{{ link.url }}"><i class="fa {{ link.icon }} fa-fw"></i> {{ link.name }}</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
