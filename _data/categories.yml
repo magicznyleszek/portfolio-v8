@@ -1,0 +1,35 @@
+- name: Ikona
+  name-en-us: Icon
+  url: /category/icon
+  url-en-us: /en-us/category/icon
+  icon: fa-folder
+
+- name: Ilustracja
+  name-en-us: Illustration
+  url: /category/illustration
+  url-en-us: /en-us/category/illustration
+  icon: fa-pencil
+
+- name: Logo
+  name-en-us: Logo
+  url: /category/logo
+  url-en-us: /en-us/category/logo
+  icon: fa-cloud
+
+- name: Plakat
+  name-en-us: Poster
+  url: /category/poster
+  url-en-us: /en-us/category/poster
+  icon: fa-file
+
+- name: Typografia
+  name-en-us: Typography
+  url: /category/typography
+  url-en-us: /en-us/category/typography
+  icon: fa-align-left
+
+- name: Strona
+  name-en-us: Website
+  url: /category/website
+  url-en-us: /en-us/category/website
+  icon: fa-globe
