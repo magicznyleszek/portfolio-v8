@@ -14,3 +14,7 @@ My main goals for now are:
 3. to support only new browsers
 4. to support all screen sizes ([The Goldilocks Approach](http://goldilocksapproach.com/article/) philosophy)
 5. to translate everything to english
+
+## Contact
+
+You can contact me at [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com).
