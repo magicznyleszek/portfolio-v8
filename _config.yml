@@ -15,7 +15,6 @@ encoding: UTF-8
 markdown: rdiscount
 future: true
 paginate: 9000
-include: ['.htaccess']
 
 # site icons
 icon-menu: '<i class="fa fa-bars fa-fw"></i>'
