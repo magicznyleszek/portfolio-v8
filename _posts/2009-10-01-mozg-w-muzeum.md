@@ -17,6 +17,6 @@ PS. Kolory, font i kształt mózgu trochę zmieniłem w porównaniu z oryginałe
 
 [![Plakat na zajęcia][mozg-w-muzeum-3]][mozg-w-muzeum-3]
 
-[mozg-w-muzeum-1]: {{ site.url }}/img/mozg-w-muzeum-1.png
-[mozg-w-muzeum-2]: {{ site.url }}/img/mozg-w-muzeum-2.png
-[mozg-w-muzeum-3]: {{ site.url }}/img/mozg-w-muzeum-3.png
+[mozg-w-muzeum-1]: {{ site.url }}/assets/img/mozg-w-muzeum-1.png
+[mozg-w-muzeum-2]: {{ site.url }}/assets/img/mozg-w-muzeum-2.png
+[mozg-w-muzeum-3]: {{ site.url }}/assets/img/mozg-w-muzeum-3.png

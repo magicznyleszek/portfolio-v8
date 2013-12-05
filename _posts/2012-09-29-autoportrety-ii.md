@@ -25,11 +25,11 @@ Druga seria portretów Leszka. Tym razem już bardziej hipsterskie i na temat, a
 
 [![Leszek 8][autoportrety-ii-8]][autoportrety-ii-8]
 
-[autoportrety-ii-1]: {{ site.url }}/img/autoportrety-ii-1.jpg
-[autoportrety-ii-2]: {{ site.url }}/img/autoportrety-ii-2.jpg
-[autoportrety-ii-3]: {{ site.url }}/img/autoportrety-ii-3.jpg
-[autoportrety-ii-4]: {{ site.url }}/img/autoportrety-ii-4.jpg
-[autoportrety-ii-5]: {{ site.url }}/img/autoportrety-ii-5.jpg
-[autoportrety-ii-6]: {{ site.url }}/img/autoportrety-ii-6.jpg
-[autoportrety-ii-7]: {{ site.url }}/img/autoportrety-ii-7.jpg
-[autoportrety-ii-8]: {{ site.url }}/img/autoportrety-ii-8.jpg
+[autoportrety-ii-1]: {{ site.url }}/assets/img/autoportrety-ii-1.jpg
+[autoportrety-ii-2]: {{ site.url }}/assets/img/autoportrety-ii-2.jpg
+[autoportrety-ii-3]: {{ site.url }}/assets/img/autoportrety-ii-3.jpg
+[autoportrety-ii-4]: {{ site.url }}/assets/img/autoportrety-ii-4.jpg
+[autoportrety-ii-5]: {{ site.url }}/assets/img/autoportrety-ii-5.jpg
+[autoportrety-ii-6]: {{ site.url }}/assets/img/autoportrety-ii-6.jpg
+[autoportrety-ii-7]: {{ site.url }}/assets/img/autoportrety-ii-7.jpg
+[autoportrety-ii-8]: {{ site.url }}/assets/img/autoportrety-ii-8.jpg

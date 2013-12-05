@@ -11,4 +11,4 @@ Plakat na konkurs dla Warszawy z okazji Nocy Muzeów 2011. Niestety wygrał bard
 
 [![Plakat na noc muzeów][noc-muzeow-1]][noc-muzeow-1]
 
-[noc-muzeow-1]: {{ site.url }}/img/noc-muzeow-1.png
+[noc-muzeow-1]: {{ site.url }}/assets/img/noc-muzeow-1.png

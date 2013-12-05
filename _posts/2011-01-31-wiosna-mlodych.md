@@ -15,5 +15,5 @@ Miałem też potem taki pomysł, żeby wykorzystać dwustopniową kampanię prom
 
 [![Tajemnica][wiosna-mlodych-2]][wiosna-mlodych-2]
 
-[wiosna-mlodych-1]: {{ site.url }}/img/wiosna-mlodych-1.png
-[wiosna-mlodych-2]: {{ site.url }}/img/wiosna-mlodych-2.png
+[wiosna-mlodych-1]: {{ site.url }}/assets/img/wiosna-mlodych-1.png
+[wiosna-mlodych-2]: {{ site.url }}/assets/img/wiosna-mlodych-2.png

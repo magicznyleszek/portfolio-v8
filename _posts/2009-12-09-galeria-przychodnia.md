@@ -29,9 +29,9 @@ A ten gadżet był niby-katalogiem do "Finisażu" -- złożone według zasad ori
 
 [![3D render katalogu wystawy][galeria-przychodnia-6]][galeria-przychodnia-6]
 
-[galeria-przychodnia-1]: {{ site.url }}/img/galeria-przychodnia-1.jpg
-[galeria-przychodnia-2]: {{ site.url }}/img/galeria-przychodnia-2.jpg
-[galeria-przychodnia-3]: {{ site.url }}/img/galeria-przychodnia-3.jpg
-[galeria-przychodnia-4]: {{ site.url }}/img/galeria-przychodnia-4.jpg
-[galeria-przychodnia-5]: {{ site.url }}/img/galeria-przychodnia-5.jpg
-[galeria-przychodnia-6]: {{ site.url }}/img/galeria-przychodnia-6.jpg
+[galeria-przychodnia-1]: {{ site.url }}/assets/img/galeria-przychodnia-1.jpg
+[galeria-przychodnia-2]: {{ site.url }}/assets/img/galeria-przychodnia-2.jpg
+[galeria-przychodnia-3]: {{ site.url }}/assets/img/galeria-przychodnia-3.jpg
+[galeria-przychodnia-4]: {{ site.url }}/assets/img/galeria-przychodnia-4.jpg
+[galeria-przychodnia-5]: {{ site.url }}/assets/img/galeria-przychodnia-5.jpg
+[galeria-przychodnia-6]: {{ site.url }}/assets/img/galeria-przychodnia-6.jpg

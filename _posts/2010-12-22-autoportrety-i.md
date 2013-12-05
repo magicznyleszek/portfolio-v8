@@ -25,11 +25,11 @@ To takie pierwsze konkretne rysunki z głowami Leszka. Wniosek wynika z nich tak
 
 [![Leszek 8][autoportrety-i-8]][autoportrety-i-8]
 
-[autoportrety-i-1]: {{ site.url }}/img/autoportrety-i-1.jpg
-[autoportrety-i-2]: {{ site.url }}/img/autoportrety-i-2.jpg
-[autoportrety-i-3]: {{ site.url }}/img/autoportrety-i-3.jpg
-[autoportrety-i-4]: {{ site.url }}/img/autoportrety-i-4.jpg
-[autoportrety-i-5]: {{ site.url }}/img/autoportrety-i-5.jpg
-[autoportrety-i-6]: {{ site.url }}/img/autoportrety-i-6.jpg
-[autoportrety-i-7]: {{ site.url }}/img/autoportrety-i-7.jpg
-[autoportrety-i-8]: {{ site.url }}/img/autoportrety-i-8.jpg
+[autoportrety-i-1]: {{ site.url }}/assets/img/autoportrety-i-1.jpg
+[autoportrety-i-2]: {{ site.url }}/assets/img/autoportrety-i-2.jpg
+[autoportrety-i-3]: {{ site.url }}/assets/img/autoportrety-i-3.jpg
+[autoportrety-i-4]: {{ site.url }}/assets/img/autoportrety-i-4.jpg
+[autoportrety-i-5]: {{ site.url }}/assets/img/autoportrety-i-5.jpg
+[autoportrety-i-6]: {{ site.url }}/assets/img/autoportrety-i-6.jpg
+[autoportrety-i-7]: {{ site.url }}/assets/img/autoportrety-i-7.jpg
+[autoportrety-i-8]: {{ site.url }}/assets/img/autoportrety-i-8.jpg

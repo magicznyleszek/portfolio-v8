@@ -31,10 +31,10 @@ Tło do strony internetowej wpisujące się w całą retro koncepcję:
 
 [![Tło do strony internetowej][niezgrani-7]][niezgrani-7]
 
-[niezgrani-1]: {{ site.url }}/img/niezgrani-1.png
-[niezgrani-2]: {{ site.url }}/img/niezgrani-2.png
-[niezgrani-3]: {{ site.url }}/img/niezgrani-3.png
-[niezgrani-4]: {{ site.url }}/img/niezgrani-4.png
-[niezgrani-5]: {{ site.url }}/img/niezgrani-5.png
-[niezgrani-6]: {{ site.url }}/img/niezgrani-6.png
-[niezgrani-7]: {{ site.url }}/img/niezgrani-7.png
+[niezgrani-1]: {{ site.url }}/assets/img/niezgrani-1.png
+[niezgrani-2]: {{ site.url }}/assets/img/niezgrani-2.png
+[niezgrani-3]: {{ site.url }}/assets/img/niezgrani-3.png
+[niezgrani-4]: {{ site.url }}/assets/img/niezgrani-4.png
+[niezgrani-5]: {{ site.url }}/assets/img/niezgrani-5.png
+[niezgrani-6]: {{ site.url }}/assets/img/niezgrani-6.png
+[niezgrani-7]: {{ site.url }}/assets/img/niezgrani-7.png

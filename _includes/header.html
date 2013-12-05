@@ -10,16 +10,16 @@
     <title>{% if include.language == "en-us" %}{{ site.name-en-us }}{% else %}{{ site.name }}{% endif %}</title>
     <meta name="description" content="{% if include.language == "en-us" %}{{ site.description-en-us }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
-    <link rel="author" href="/humans.txt">
+    <link rel="author" href="{{ site.url }}/humans.txt">
 
     <!-- style & viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/css/global.css?version=3" media="all" rel="stylesheet">
-    <link href="/css/print.css?version=3" media="print" rel="stylesheet">
+    <link href="{{ site.url }}/assets/css/global.css?version=3" media="all" rel="stylesheet">
+    <link href="{{ site.url }}/assets/css/print.css?version=3" media="print" rel="stylesheet">
 
     <!-- icons -->
-    <link rel="shortcut icon" href="/favicon.ico?version=3">
-    <link rel="apple-touch-icon" href="/favicon-152.png?version=3">
+    <link rel="shortcut icon" href="{{ site.url }}/assets/img/favicon.ico?version=3">
+    <link rel="apple-touch-icon" href="{{ site.url }}/assets/img/favicon-152.png?version=3">
     
     <!-- fonts -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic&subset=latin,latin-ext" rel="stylesheet">
@@ -28,7 +28,7 @@
 
 <body>
     <header>
-        <a href="/{% if include.language == "en-us" %}en-us{% endif %}" id="logo">
+        <a href="{{ site.url }}{% if include.language == "en-us" %}/en-us{% endif %}" id="logo">
             {% include chmurka-logo.html %}
         </a>
         <nav id="menu">

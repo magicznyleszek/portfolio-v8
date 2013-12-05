@@ -19,8 +19,8 @@ Oprócz logo powstała również [księga znaku]({{ site.url }}/file/fashion-wee
 
 * [![Ikonki][fashion-week-3]][fashion-week-3]
 
-[fashion-week-1]: {{ site.url }}/img/fashion-week-1.jpg
-[fashion-week-2]: {{ site.url }}/img/fashion-week-2.jpg
-[fashion-week-3]: {{ site.url }}/img/fashion-week-3.jpg
-
 Projekt logo na zajęcia z Identyfikacji Wizualnej z Wojtkiem Janickim.
+
+[fashion-week-1]: {{ site.url }}/assets/img/fashion-week-1.jpg
+[fashion-week-2]: {{ site.url }}/assets/img/fashion-week-2.jpg
+[fashion-week-3]: {{ site.url }}/assets/img/fashion-week-3.jpg
