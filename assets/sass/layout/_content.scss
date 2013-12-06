@@ -8,6 +8,16 @@ section.content {
         padding: rem(24px) rem(20px);
         background-color: $boulder-lighter;
     }
+    p, blockquote, ul, ol, time {
+        margin-top: rem(24px);
+    }
+    time {
+        display: block;
+    }
+    img {
+        display: block;
+        margin: auto;
+    }
     section.projects-list {
         text-align: center;
         padding: rem(12px) 0;
@@ -60,19 +70,7 @@ section.content {
         }
     }
 }
-section#post, section.me {
-    p, blockquote, ul, ol, time {
-        margin-top: rem(24px);
-    }
-    time {
-        display: block;
-    }
-    img {
-        display: block;
-        margin: auto;
-    }
-}
-
+// hovers on images
 section#post a img, section.projects-list article > a {
     border: rem(2px) solid $boulder-lighter;
     @include box-shadow(0 0 0 $boulder-lighter);

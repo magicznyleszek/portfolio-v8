@@ -6,8 +6,8 @@ description-en-us: "A fistful of drawings and projects by Leszek Pietrzak."
 author: "Leszek Pietrzak"
 
 # address settings
-# url: "http://0.0.0.0:4000"
-url: "http://leszekpietrzak.com"
+url: "http://0.0.0.0:4000"
+# url: "http://leszekpietrzak.com"
 permalink: /project/:title
 
 # site configuration
