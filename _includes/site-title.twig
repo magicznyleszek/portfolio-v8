@@ -1,12 +1,11 @@
+{% if page.title %}
+    {{ page.title }} &ndash;
+{% endif %}
+{% if post.title %}
+    {{ post.title }} &ndash;
+{% endif %}
 {% if include.language == "en-us" %}
     {{ site.name-en-us }}
-    {% if post.title %}
-        {{ post.title }}
-    {% endif %}
 {% else %}
     {{ site.name }}
-{% endif %}
-
-{% if page.title %}
-    &ndash; {{ page.title }}
 {% endif %}
