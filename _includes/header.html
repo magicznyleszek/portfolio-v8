@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <!-- info -->
-    <title>{% if include.language == "en-us" %}{{ site.name-en-us }}{% else %}{{ site.name }}{% endif %}</title>
+    <title>{% include site-title.twig %}</title>
     <meta name="description" content="{% if include.language == "en-us" %}{{ site.description-en-us }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
     <link rel="author" href="{{ site.url }}/humans.txt">
@@ -32,18 +32,24 @@
             {% include chmurka-logo.html %}
         </a>
         <nav id="menu">
-            <a href="#menu" class="open">{{ site.icon-menu }}</a>
-            <a href="#close" class="close">{{ site.icon-close }}</a>
+            <a href="#menu" class="open"><i class="fa fa-bars fa-fw"></i></a>
+            <a href="#close" class="close"><i class="fa fa-times fa-fw"></i></a>
             <ul>
                 {% for link in site.data.navigation %}
                     {% if forloop.last %}
                         <hr>
                     {% endif %}
-                    {% if include.language == "en-us" %}
-                        <li><a href="{{ link.url-en-us }}"><i class="fa {{ link.icon }} fa-fw"></i> {{ link.name-en-us }}</a></li>
-                    {% else %}
-                        <li><a href="{{ link.url }}"><i class="fa {{ link.icon }} fa-fw"></i> {{ link.name }}</a></li>
-                    {% endif %}
+                    <li>
+                        {% if include.language == "en-us" %}
+                            <a href="{{ link.url-en-us }}">
+                                <i class="fa {{ link.icon }} fa-fw"></i> {{ link.name-en-us }}
+                            </a>
+                        {% else %}
+                            <a href="{{ link.url }}">
+                                <i class="fa {{ link.icon }} fa-fw"></i> {{ link.name }}
+                            </a>
+                        {% endif %}
+                    </li>
                 {% endfor %}
             </ul>
         </nav>

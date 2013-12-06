@@ -1,9 +1,6 @@
 ---
 layout: default.en-us
+title: Icon
 ---
 
-<h1>{{ site.icon-icon }} Icon</h1>
-
-<section class="projects-list">
-    {% for post in site.categories.icon %}{% if post.language == "en-us" %}{% include project-summary.html language="en-us" %}{% endif %}{% endfor %}
-</section>
+{% include category-page.twig category="icon" language="en-us" %}

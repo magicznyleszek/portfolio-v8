@@ -2,34 +2,40 @@
   name-en-us: Icon
   url: /category/icon
   url-en-us: /en-us/category/icon
+  slug: icon
   icon: fa-folder
 
 - name: Ilustracja
   name-en-us: Illustration
   url: /category/illustration
   url-en-us: /en-us/category/illustration
+  slug: illustration
   icon: fa-pencil
 
 - name: Logo
   name-en-us: Logo
   url: /category/logo
   url-en-us: /en-us/category/logo
+  slug: logo
   icon: fa-cloud
 
 - name: Plakat
   name-en-us: Poster
   url: /category/poster
   url-en-us: /en-us/category/poster
+  slug: poster
   icon: fa-file
 
 - name: Typografia
   name-en-us: Typography
   url: /category/typography
   url-en-us: /en-us/category/typography
+  slug: typography
   icon: fa-align-left
 
 - name: Strona
   name-en-us: Website
   url: /category/website
   url-en-us: /en-us/category/website
+  slug: website
   icon: fa-globe

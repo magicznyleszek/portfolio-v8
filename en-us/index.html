@@ -2,10 +2,14 @@
 layout: default.en-us
 ---
 
-<h1 id="projects">{{ site.icon-projects }} Projects</h1>
+<h1 id="projects">{% include navigation-icon.twig link="projects" %} {% include navigation-name.twig link="projects" language="en-us" %}</h1>
 
 <section class="projects-list">
-    {% for post in site.posts %}{% if post.language == "en-us" %}{% include project-summary.html language="en-us" %}{% endif %}{% endfor %}
+    {% for post in site.posts %}
+        {% if post.language == "en-us" %}
+            {% include project-summary.twig language=post.language %}
+        {% endif %}
+    {% endfor %}
 </section>
 
 {% include me.en-us.html %}

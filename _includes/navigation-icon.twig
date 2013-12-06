@@ -1,0 +1,5 @@
+{% for link in site.data.navigation %}
+    {% if link.slug == include.link %}
+        <i class="fa fa-fw {{ link.icon }}"></i>
+    {% endif %}
+{% endfor %}

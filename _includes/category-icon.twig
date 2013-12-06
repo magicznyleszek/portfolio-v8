@@ -1,0 +1,5 @@
+{% for category in site.data.categories %}
+    {% if category.slug == include.category %}
+        <i class="fa fa-fw {{ category.icon }}"></i>
+    {% endif %}
+{% endfor %}

@@ -2,28 +2,33 @@
   name-en-us: Projects
   url: /#projects
   url-en-us: /en-us/#projects
+  slug: projects
   icon: fa-archive
 
 - name: Ja
   name-en-us: Me
   url: /#me
   url-en-us: /en-us/#me
+  slug: me
   icon: fa-quote-right
 
 - name: Kontakt
   name-en-us: Contact
   url: /#contact
   url-en-us: /en-us/#contact
+  slug: contact
   icon: fa-envelope
 
 - name: RSS
   name-en-us: RSS
   url: /rss.xml
   url-en-us: /en-us/rss.xml
+  slug: rss
   icon: fa-rss
 
 - name: English
   name-en-us: Polski
   url: /en-us
   url-en-us: /
+  slug: language
   icon: fa-flag
