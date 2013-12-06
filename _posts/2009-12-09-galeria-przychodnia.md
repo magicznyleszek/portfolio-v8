@@ -2,7 +2,6 @@
 title: Galeria Przychodnia
 thumbnail: galeria-przychodnia-thumbnail.jpg
 categories: [poster, website]
-amount: 6
 layout: post
 language: pl-pl
 ---

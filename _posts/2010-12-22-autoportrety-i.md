@@ -2,7 +2,6 @@
 title: Autoportrety 1
 thumbnail: autoportrety-i-thumbnail.jpg
 categories: [illustration]
-amount: 8
 layout: post
 language: pl-pl
 ---

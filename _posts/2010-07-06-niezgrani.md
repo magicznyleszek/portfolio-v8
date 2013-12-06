@@ -2,7 +2,6 @@
 title: Niezgrani
 thumbnail: niezgrani-thumbnail.jpg
 categories: [illustration, logo]
-amount: 7
 layout: post
 language: pl-pl
 ---

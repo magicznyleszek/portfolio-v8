@@ -2,7 +2,6 @@
 title: Katecheza
 thumbnail: katecheza-thumbnail.jpg
 categories: [illustration]
-amount: 3
 layout: post
 language: pl-pl
 ---

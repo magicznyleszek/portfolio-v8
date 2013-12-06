@@ -2,7 +2,6 @@
 title: Katecheza
 thumbnail: katecheza-thumbnail.jpg
 categories: [illustration]
-amount: 3
 layout: post.en-us
 language: en-us
 permalink: /en-us/project/katecheza
