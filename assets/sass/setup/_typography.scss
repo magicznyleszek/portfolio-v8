@@ -1,7 +1,7 @@
 html {
     font: 400 #{$font-size}/1.5 $source;
     @media screen and (min-width: #{$break-big}) {
-        font-size: floor($font-size * $scale-fraction-inverse);
+        font-size: 20px;
     }
 }
 a {
