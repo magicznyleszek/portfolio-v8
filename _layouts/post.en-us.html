@@ -6,7 +6,10 @@
         
         {{ content }}
 
-        <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include date.twig language="en-us" %}</time>
+        <footer>
+            <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include date.twig language="en-us" %}</time>
+            {% include project-other-language.twig language="en-us" %}
+        </footer>
 
     </section>
 

@@ -12,7 +12,7 @@ section.content {
         margin-top: rem(24px);
     }
     time {
-        display: block;
+        display: inline-block;
     }
     img {
         display: block;
@@ -77,6 +77,13 @@ section#post a img, section.projects-list article > a {
     @include transition($fast);
     &:hover {
         @include box-shadow(rem(5px) rem(5px) 0 $boulder-lighter);
+    }
+}
+section#post {
+    footer {
+        time + a {
+            margin-left: rem(10px);
+        }
     }
 }
 body.error {
