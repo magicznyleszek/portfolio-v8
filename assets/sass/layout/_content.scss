@@ -1,3 +1,5 @@
+// basic content
+// -------------
 section.content {
     padding: 0 rem(20px);
     margin: auto;
@@ -18,74 +20,81 @@ section.content {
         display: block;
         margin: auto;
     }
-    section.projects-list {
+}
+// list of thumbnails
+// ------------------
+section.projects-list {
+    text-align: center;
+    padding: rem(12px) 0;
+    article {
+        @include column();
+        padding: rem(24px) rem(20px);
+        vertical-align: bottom;
         text-align: center;
-        padding: rem(12px) 0;
-        article {
+        width: rem(256px);
+        @include transition($fast);
+        @media screen and (max-width: #{$break-small}) {
+            width: 100%;
+        }
+        > a {
             display: inline-block;
-            padding: rem(12px) rem(20px);
-            vertical-align: bottom;
-            text-align: center;
-            @media screen and (max-width: #{$break-small}) {
-                display: block;
-            }
-            > a {
+            line-height: 0;
+        }
+        img {
+            width: rem(256px);
+            height: auto;
+        }
+        ul {
+            margin: 0;
+            li {
+                list-style: none;
                 display: inline-block;
-                line-height: 0;
-            }
-            img {
-                width: rem(128px);
-                height: auto;
-            }
-            ul {
-                margin: 0;
-                li {
-                    list-style: none;
+                position: relative;
+                a {
                     display: inline-block;
-                    position: relative;
-                    a {
-                        display: inline-block;
-                        &:hover, &:active {
-                            span {
-                                @include opacity(1);
-                                visibility: visible;
-                            }
-                        }
-                        i {
-                            font-size: rem(20px);
-                        }
+                    &:hover, &:active {
                         span {
-                            display: block;
-                            color: $white;
-                            background-color: $cardinal;
-                            padding: 0 rem(10px);
-                            @include absolute(top 1.5rem left 0); // 24px
-                            @include opacity(0);
-                            visibility: hidden;
-                            @include transition($fast);
+                            @include opacity(1);
+                            visibility: visible;
                         }
+                    }
+                    i {
+                        font-size: rem(20px);
+                    }
+                    span {
+                        display: block;
+                        color: $white;
+                        background-color: $cardinal;
+                        padding: 0 rem(10px);
+                        @include absolute(top 1.5rem left 0); // 24px
+                        @include opacity(0);
+                        visibility: hidden;
+                        @include transition($fast);
                     }
                 }
             }
         }
     }
 }
-// hovers on images
-section#post a img, section.projects-list article > a {
-    border: rem(2px) solid $boulder-lighter;
-    @include box-shadow(0 0 0 $boulder-lighter);
-    @include transition($fast);
-    &:hover {
-        @include box-shadow(rem(5px) rem(5px) 0 $boulder-lighter);
-    }
-}
+// single project
+// --------------
 section#post {
+    a img {
+        border: rem(2px) solid $boulder-lighter;
+        @include box-shadow(0 0 0 $boulder-lighter);
+        @include transition($fast);
+        &:hover {
+            @include box-shadow(rem(5px) rem(5px) 0 $boulder-lighter);
+        }
+    }
     footer {
         time + a {
             margin-left: rem(10px);
         }
     }
 }
+// 404 error page
+// --------------
 body.error {
     color: $white;
     background-color: $crimson;

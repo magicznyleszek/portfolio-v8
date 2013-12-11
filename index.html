@@ -5,11 +5,7 @@ layout: default
 <h1 id="projects">{% include navigation-icon.twig link="projects" %} {% include navigation-name.twig link="projects" language="pl-pl" %}</h1>
 
 <section class="projects-list">
-    {% for post in site.posts %}
-        {% if post.language == "pl-pl" %}
-            {% include project-summary.twig language=post.language %}
-        {% endif %}
-    {% endfor %}
+    {% for post in site.posts %}{% if post.language == "pl-pl" %}{% include project-summary.twig language=post.language %}{% endif %}{% endfor %}
 </section>
 
 {% include me.html %}
