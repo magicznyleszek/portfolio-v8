@@ -93,6 +93,15 @@ section#post {
         }
     }
 }
+// me section
+// ----------
+section.me {
+    p {
+        a {
+            display: inline-block;
+        }
+    }
+}
 // 404 error page
 // --------------
 body.error {
