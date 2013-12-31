@@ -39,10 +39,21 @@ section.projects-list {
         > a {
             display: inline-block;
             line-height: 0;
+            &:hover, &:active {
+                svg {
+                    // fill: $cardinal;
+                    fill: $boulder-dark;
+                }
+            }
         }
         img {
             width: rem(256px);
             height: auto;
+        }
+        svg {
+            width: rem(256px);
+            height: rem(256px);
+            fill: $boulder-darker;
         }
         ul {
             margin: 0;

@@ -8,12 +8,10 @@ body > header {
             height: rem(160px);
             width: rem(160px);
         }
-        &:hover {
-            path {
-                fill: $crimson;
-            }
+        path {
+            fill: $crimson;
         }
-        &:active {
+        &:hover, &:active {
             path {
                 fill: $cardinal;
             }
