@@ -1,6 +1,6 @@
 ---
 title: Juliusz Cezar
-thumbnail: juliusz-cezar-thumbnail.png
+thumbnail: juliusz-cezar-thumbnail.svg
 categories: [illustration, poster]
 layout: post
 language: pl-pl
