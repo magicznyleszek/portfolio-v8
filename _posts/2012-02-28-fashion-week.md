@@ -1,6 +1,6 @@
 ---
 title: Fashion Week
-thumbnail: fashion-week-thumbnail.jpg
+thumbnail: fashion-week-thumbnail.svg
 categories: [icon, logo]
 layout: post
 language: pl-pl

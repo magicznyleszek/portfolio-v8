@@ -1,6 +1,6 @@
 ---
 title: Teatr Bez Vat
-thumbnail: teatr-bez-vat-thumbnail.jpg
+thumbnail: teatr-bez-vat-thumbnail.svg
 categories: [logo, poster, website]
 layout: post
 language: pl-pl

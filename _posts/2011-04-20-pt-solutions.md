@@ -1,6 +1,6 @@
 ---
 title: PT Solutions
-thumbnail: pt-solutions-thumbnail.jpg
+thumbnail: pt-solutions-thumbnail.svg
 categories: [logo]
 layout: post
 language: pl-pl

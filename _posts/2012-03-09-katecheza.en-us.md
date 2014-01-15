@@ -1,6 +1,6 @@
 ---
 title: Katecheza
-thumbnail: katecheza-thumbnail.jpg
+thumbnail: katecheza-thumbnail.svg
 categories: [illustration]
 layout: post.en-us
 language: en-us
