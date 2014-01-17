@@ -1,6 +1,6 @@
 ---
 title: Zmory & omamy
-thumbnail: zmory-and-omamy-thumbnail.jpg
+thumbnail: zmory-and-omamy-thumbnail.svg
 categories: [illustration]
 layout: post
 language: pl-pl

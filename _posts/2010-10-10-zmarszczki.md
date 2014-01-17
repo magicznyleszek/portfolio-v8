@@ -1,6 +1,6 @@
 ---
 title: Zmarszczki
-thumbnail: zmarszczki-thumbnail.jpg
+thumbnail: zmarszczki-thumbnail.svg
 categories: [illustration]
 layout: post
 language: pl-pl

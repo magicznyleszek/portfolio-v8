@@ -1,6 +1,6 @@
 ---
 title: Tattoo Girls
-thumbnail: tattoo-girls-thumbnail.jpg
+thumbnail: tattoo-girls-thumbnail.svg
 categories: [illustration]
 layout: post
 language: pl-pl
