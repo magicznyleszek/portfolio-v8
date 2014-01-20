@@ -1,6 +1,6 @@
 ---
 title: Wiosna Młodych 11
-thumbnail: wiosna-mlodych-11-thumbnail.png
+thumbnail: wiosna-mlodych-11-thumbnail.svg
 categories: [illustration, poster]
 layout: post
 language: pl-pl
