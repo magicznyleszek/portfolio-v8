@@ -1,7 +1,7 @@
 ---
 title: Niezgrani
 thumbnail: niezgrani-thumbnail.svg
-categories: [illustration, logo]
+categories: [icon, illustration, logo]
 layout: post
 language: pl-pl
 ---

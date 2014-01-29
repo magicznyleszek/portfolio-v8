@@ -3,7 +3,7 @@
   url: /category/icon
   url-en-us: /en-us/category/icon
   slug: icon
-  icon: fa-folder
+  icon: fa-comment-o
 
 - name: Ilustracja
   name-en-us: Illustration
@@ -17,14 +17,14 @@
   url: /category/logo
   url-en-us: /en-us/category/logo
   slug: logo
-  icon: fa-cloud
+  icon: fa-eye
 
 - name: Plakat
   name-en-us: Poster
   url: /category/poster
   url-en-us: /en-us/category/poster
   slug: poster
-  icon: fa-file
+  icon: fa-file-o
 
 - name: Typografia
   name-en-us: Typography
@@ -38,4 +38,4 @@
   url: /category/interface
   url-en-us: /en-us/category/interface
   slug: interface
-  icon: fa-globe
+  icon: fa-sitemap

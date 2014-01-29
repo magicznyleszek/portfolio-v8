@@ -1,7 +1,7 @@
 ---
 title: Katecheza
 thumbnail: katecheza-thumbnail.svg
-categories: [illustration]
+categories: [illustration, poster]
 layout: post
 language: pl-pl
 ---

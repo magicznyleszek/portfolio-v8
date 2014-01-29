@@ -14,7 +14,7 @@ Kształt logo można osadzić na kilkunastu prostych, ale nie wszystkie elementy
 
 [![Budowa logo z wszystkimi anchorami][fashion-week-2]][fashion-week-2]
 
-Oprócz logo powstała również [księga znaku]({{ site.url }}/file/fashion-week-book.pdf), a w środku takie słodkie piktogramy:
+Oprócz logo powstała również [księga znaku]({{ site.url }}/assets/file/fashion-week-book.pdf), a w środku takie słodkie piktogramy:
 
 [![Ikonki][fashion-week-3]][fashion-week-3]
 
