@@ -33,9 +33,9 @@
   slug: typography
   icon: fa-align-left
 
-- name: Strona
-  name-en-us: Website
-  url: /category/website
-  url-en-us: /en-us/category/website
-  slug: website
+- name: Interfejs
+  name-en-us: Interface
+  url: /category/interface
+  url-en-us: /en-us/category/interface
+  slug: interface
   icon: fa-globe

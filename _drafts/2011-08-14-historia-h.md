@@ -2,7 +2,6 @@
 title: Historia H
 thumbnail: historia-h-thumbnail.png
 categories: [typography]
-amount: 2
 layout: post
 language: pl-pl
 ---

@@ -1,7 +1,7 @@
 ---
 title: Galeria Przychodnia
 thumbnail: galeria-przychodnia-thumbnail.svg
-categories: [poster, website]
+categories: [poster, interface]
 layout: post
 language: pl-pl
 ---
