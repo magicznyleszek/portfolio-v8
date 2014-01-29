@@ -76,7 +76,7 @@ section.projects-list {
                         display: block;
                         color: $white;
                         background-color: $cardinal;
-                        padding: 0 rem(10px);
+                        padding: 0 rem(8px);
                         @include absolute(top 1.5rem left 0); // 24px
                         @include opacity(0);
                         visibility: hidden;
