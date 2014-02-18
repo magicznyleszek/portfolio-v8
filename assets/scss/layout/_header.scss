@@ -7,13 +7,9 @@ body > header {
         img, svg {
             height: rem(160px);
             width: rem(160px);
-        }
-        path {
             fill: $crimson;
-        }
-        &:hover, &:active {
-            path {
-                fill: $cardinal;
+            &:hover, &:active {
+                fill: $violet;
             }
         }
     }
@@ -42,7 +38,7 @@ body > header {
             height: auto;
             margin: 0;
             @include absolute(top 2.5rem right 0); // 40px
-            @include transition(opacity, $fast);
+            @include single-transition(opacity, $fast);
             li {
                 display: block;
                 a {
@@ -59,7 +55,7 @@ body > header {
             text-decoration: none;
             text-align: left;
             &:hover {
-                background-color: $cardinal;
+                background-color: $violet;
             }
         }
         a.close {

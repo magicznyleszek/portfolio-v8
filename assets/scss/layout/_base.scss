@@ -1,14 +1,14 @@
 body {
     min-height: 100%;
-    color: $boulder-darker;
+    color: $boulder-dark;
 }
 a {
     color: $crimson;
     &:visited, &:active {
-        color: $violet;
+        color: $cardinal;
     }
     &:hover {
-        color: $cardinal;
+        color: $violet;
     }
 }
 

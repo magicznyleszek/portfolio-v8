@@ -5,10 +5,9 @@ section.content {
     margin: auto;
     max-width: rem(800px);
     h1 {
-        text-align: center;
         line-height: 1;
         padding: rem(24px) rem(20px);
-        background-color: $boulder-lighter;
+        background-color: $boulder-light;
     }
     p, blockquote, ul, ol, time {
         margin-top: rem(24px);
@@ -41,8 +40,7 @@ section.projects-list {
             line-height: 0;
             &:hover, &:active {
                 svg {
-                    // fill: $cardinal;
-                    fill: $boulder-dark;
+                    fill: $boulder;
                 }
             }
         }
@@ -53,7 +51,7 @@ section.projects-list {
         svg {
             width: rem(216px);
             height: rem(216px);
-            fill: $boulder-darker;
+            fill: $boulder-dark;
         }
         ul {
             margin: 0;
@@ -75,7 +73,7 @@ section.projects-list {
                     span {
                         display: block;
                         color: $white;
-                        background-color: $cardinal;
+                        background-color: $violet;
                         padding: 0 rem(8px);
                         @include absolute(top 1.5rem left 0); // 24px
                         @include opacity(0);
@@ -91,11 +89,11 @@ section.projects-list {
 // --------------
 section#post {
     a img {
-        border: rem(2px) solid $boulder-lighter;
-        @include box-shadow(0 0 0 $boulder-lighter);
+        border: rem(2px) solid $boulder-light;
+        @include box-shadow(0 0 0 $boulder-light);
         @include transition($fast);
         &:hover {
-            @include box-shadow(rem(5px) rem(5px) 0 $boulder-lighter);
+            @include box-shadow(rem(5px) rem(5px) 0 $boulder-light);
         }
     }
     footer {
