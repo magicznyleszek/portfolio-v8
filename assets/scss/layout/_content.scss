@@ -40,7 +40,7 @@ section.projects-list {
             line-height: 0;
             &:hover, &:active {
                 svg {
-                    fill: $boulder;
+                    fill: $violet;
                 }
             }
         }
@@ -51,7 +51,7 @@ section.projects-list {
         svg {
             width: rem(216px);
             height: rem(216px);
-            fill: $boulder-dark;
+            fill: $boulder;
         }
         ul {
             margin: 0;
