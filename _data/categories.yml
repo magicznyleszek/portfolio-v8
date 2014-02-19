@@ -1,5 +1,7 @@
 - name: Ikona
   name-en-us: Icon
+  description: "Małe piktogramy wynaukowione w 1975 roku są przyjemnym ćwiczeniem w upraszczaniu, porządkowaniu i odrębnym przystawaniu. Oczywiście tylko odpowiednio geometryczną paletą buduje się drogę do ikonowej nirwany."
+  description-en-us: "Small pictograms scienced-up in 1975, are a pleasant exercise in simplifying, organizing and distinct similiarizing. Of course, only with the properly geometric palette you will be able to build a path to the iconic nirvana."
   url: /category/icon
   url-en-us: /en-us/category/icon
   slug: icon
@@ -7,13 +9,35 @@
 
 - name: Ilustracja
   name-en-us: Illustration
+  description: "Po początkowych 20 latach posuchy, dopiero mało-absorbującym (nudnym) wykładom z Kulturoznawstwa udało się odblokować moją głowę i ręce na rysowanie. A skończyło się na tym, że moimi ulubieńcami zostali: czarny atrament i ludzkie twarze."
+  description-en-us: "After the initial 20 years of drought, only the low-absorbing (boring) classes at Cultural Studies were able to open my head and hands for drawing. And it ended up with me loving black ink and human heads."
   url: /category/illustration
   url-en-us: /en-us/category/illustration
   slug: illustration
   icon: fa-pencil
 
+- name: Interfejs
+  name-en-us: Interface
+  description: " "
+  description-en-us: " "
+  url: /category/interface
+  url-en-us: /en-us/category/interface
+  slug: interface
+  icon: fa-sitemap
+
+- name: Liternictwo
+  name-en-us: Lettering
+  description: "Niewiele rzeczy przebija akt własnoręcznego stawiania liter na papierze, a możliwość budowania ich z dokładnością w okolicach 6000% to zupełnie nowy poziom przyjemności."
+  description-en-us: "Nothing beats the act of putting down letters on paper by your own hand, and the ability to build them with an accuracy of around 6000% is just a new level of pleasure."
+  url: /category/lettering
+  url-en-us: /en-us/category/lettering
+  slug: lettering
+  icon: fa-align-left
+
 - name: Logo
   name-en-us: Logo
+  description: "W symbolach najfajniejsze jest to, że cały lewiatan informacji, bazgrołów i matematyki spotyka się w jednej prokreacyjnej implozji i finiszuje minimalistycznym komunikatem prosto na twarz."
+  description-en-us: "The best thing about symbols is that the whole leviathan of information, doodle and mathematics meets in one procreative implosion and finishes with minimalistic message straight to the face."
   url: /category/logo
   url-en-us: /en-us/category/logo
   slug: logo
@@ -21,21 +45,9 @@
 
 - name: Plakat
   name-en-us: Poster
+  description: " "
+  description-en-us: " "
   url: /category/poster
   url-en-us: /en-us/category/poster
   slug: poster
   icon: fa-file-o
-
-- name: Typografia
-  name-en-us: Typography
-  url: /category/typography
-  url-en-us: /en-us/category/typography
-  slug: typography
-  icon: fa-align-left
-
-- name: Interfejs
-  name-en-us: Interface
-  url: /category/interface
-  url-en-us: /en-us/category/interface
-  slug: interface
-  icon: fa-sitemap

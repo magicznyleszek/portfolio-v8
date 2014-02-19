@@ -1,0 +1,11 @@
+{% for category in site.data.categories %}
+    {% if include.language == "en-us" %}
+        {% if category.slug == include.category %}
+            {{ category.description-en-us }}
+        {% endif %}
+    {% else %}
+        {% if category.slug == include.category %}
+            {{ category.description }}
+        {% endif %}
+    {% endif %}
+{% endfor %}

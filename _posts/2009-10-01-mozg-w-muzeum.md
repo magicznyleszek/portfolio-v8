@@ -1,7 +1,7 @@
 ---
 title: Mózg w muzeum
 thumbnail: mozg-w-muzeum-thumbnail.svg
-categories: [logo, poster, typography]
+categories: [lettering, logo, poster]
 layout: post
 language: pl-pl
 ---
