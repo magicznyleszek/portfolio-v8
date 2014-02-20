@@ -18,8 +18,8 @@
 
 - name: Interfejs
   name-en-us: Interface
-  description: " "
-  description-en-us: " "
+  description: "W przepastnym świecie grafiki projektowej nie ma chyba nic tak aktualnego, fascynującego, pełnego życia i przemijających teorii, jak projektowanie interfejsów."
+  description-en-us: "In the immense world of graphic design, there is probably nothing as actual, fascinating, full of life and vanishing theories, as interface design."
   url: /category/interface
   url-en-us: /en-us/category/interface
   slug: interface
@@ -45,8 +45,8 @@
 
 - name: Plakat
   name-en-us: Poster
-  description: " "
-  description-en-us: " "
+  description: "Rysowanie-projektowanie plakatów pomaga mi zapanować nad moim toksycznym związkiem z formatem A4."
+  description-en-us: "Drawing-designing posters helps me control the toxic relationship with the A4 paper format."
   url: /category/poster
   url-en-us: /en-us/category/poster
   slug: poster
