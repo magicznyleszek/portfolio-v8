@@ -1,7 +1,0 @@
-<h1>{% include category-icon.twig category=include.category %} {% include category-name.twig category=include.category language=include.language %}</h1>
-
-<p class="category-description">{% include category-description.twig category=include.category language=include.language %}</p>
-
-<section class="projects-list">
-    {% for post in site.posts %}{% if post.categories contains include.category %}{% if post.language == include.language %}{% include project-summary.twig language=post.language %}{% endif %}{% endif %}{% endfor %}
-</section>

@@ -1,0 +1,27 @@
+<header class="page-navigation">
+    <a href="{{ site.url }}{% if include.language == "en-us" %}/en-us{% endif %}" class="page-navigation-logo">
+        {% include img/chmurka-logo.svg %}
+    </a>
+    <nav class="page-navigation-menu" id="menu">
+        <a href="#menu" class="open"><i class="fa fa-bars fa-fw"></i></a>
+        <a href="#close" class="close"><i class="fa fa-times fa-fw"></i></a>
+        <ul>
+            {% for link in site.data.navigation %}
+                {% if forloop.last %}
+                    <hr>
+                {% endif %}
+                <li>
+                    {% if include.language == "en-us" %}
+                        <a href="{{ link.url-en-us }}">
+                            <i class="fa {{ link.icon }} fa-fw"></i> {{ link.name-en-us }}
+                        </a>
+                    {% else %}
+                        <a href="{{ link.url }}">
+                            <i class="fa {{ link.icon }} fa-fw"></i> {{ link.name }}
+                        </a>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>

@@ -1,0 +1,12 @@
+<article class="project-summary">
+
+    <a href="{{ post.url }}" class="project-summary-thumbnail">
+        {% capture thumbnail %}img/{{post.thumbnail}}{% endcapture %}
+        {% include {{thumbnail}} %}
+    </a>
+
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    
+    {% include post-categories-list.liquid language=include.language categories=post.categories %}
+
+</article>

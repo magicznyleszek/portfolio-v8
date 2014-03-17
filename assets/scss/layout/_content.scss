@@ -1,6 +1,7 @@
 // basic content
 // -------------
-section.content {
+
+section.page-content {
     padding: 0 rem(20px);
     margin: auto;
     max-width: rem(800px);
@@ -8,9 +9,6 @@ section.content {
         line-height: 1;
         padding: rem(24px) rem(20px);
         background-color: $boulder-light;
-    }
-    p, blockquote, ul, ol, time {
-        margin-top: rem(24px);
     }
     time {
         display: inline-block;
@@ -20,74 +18,98 @@ section.content {
         margin: auto;
     }
 }
+
+
 // list of thumbnails
 // ------------------
+
 section.projects-list {
     text-align: center;
     padding: rem(12px) 0;
-    article {
-        @include column();
-        padding: rem(24px) rem(20px);
-        vertical-align: bottom;
-        text-align: center;
-        width: rem(256px);
-        @include transition($fast);
-        @media screen and (max-width: #{$break-small}) {
-            width: 100%;
-        }
-        > a {
-            display: inline-block;
-            line-height: 0;
-            &:hover, &:active {
-                svg {
-                    fill: $violet;
-                }
-            }
-        }
-        img {
-            width: rem(256px);
-            height: auto;
-        }
+}
+
+article.project-summary {
+    @include column();
+    padding: rem(24px) rem(20px);
+    vertical-align: bottom;
+    text-align: center;
+    width: rem(256px);
+    @include transition($fast);
+    @media screen and (max-width: #{$break-small}) {
+        width: 100%;
+    }
+}
+
+a.project-summary-thumbnail {
+    display: inline-block;
+    line-height: 0;
+    &:hover, &:active {
         svg {
-            width: rem(216px);
-            height: rem(216px);
-            fill: $boulder;
+            fill: $violet;
         }
-        ul {
-            margin: 0;
-            li {
-                list-style: none;
-                display: inline-block;
-                position: relative;
-                a {
-                    display: inline-block;
-                    &:hover, &:active {
-                        span {
-                            @include opacity(1);
-                            visibility: visible;
-                        }
-                    }
-                    i {
-                        font-size: rem(20px);
-                    }
-                    span {
-                        display: block;
-                        color: $white;
-                        background-color: $violet;
-                        padding: 0 rem(8px);
-                        @include absolute(top 1.5rem left 0); // 24px
-                        @include opacity(0);
-                        visibility: hidden;
-                        @include transition($fast);
-                    }
+    }
+    svg {
+        width: rem(216px);
+        height: rem(216px);
+        fill: $boulder;
+    }
+}
+
+section.page-content-single-post nav.project-summary-categories-list {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: rem(20px);
+    ul {
+        li {
+            a {
+                color: $boulder;
+                &:hover {
+                    color: $violet;
                 }
             }
         }
     }
 }
+
+nav.project-summary-categories-list {
+    font: 400 1rem/1.5 $source;
+    ul {
+        li {
+            list-style: none;
+            display: inline-block;
+            position: relative;
+            a {
+                display: inline-block;
+                &:hover, &:active {
+                    span {
+                        @include opacity(1);
+                        visibility: visible;
+                    }
+                }
+                i {
+                    font-size: rem(20px);
+                }
+                span {
+                    font-size: 1rem;
+                    display: block;
+                    color: $white;
+                    background-color: $violet;
+                    padding: 0 rem(8px);
+                    @include absolute(top 1.5rem left 0); // 24px
+                    @include opacity(0);
+                    visibility: hidden;
+                    @include transition($fast);
+                }
+            }
+        }
+    }
+}
+
+
 // single project
 // --------------
-section#post {
+
+section.page-content-single-post {
     a img {
         border: rem(2px) solid $boulder-light;
         @include box-shadow(0 0 0 $boulder-light);
@@ -96,23 +118,30 @@ section#post {
             @include box-shadow(rem(5px) rem(5px) 0 $boulder-light);
         }
     }
-    footer {
-        time + a {
-            margin-left: rem(10px);
-        }
+}
+
+footer.single-post-meta {
+    time + a {
+        margin-left: rem(10px);
     }
 }
+
+
 // me section
 // ----------
-section.me {
+
+section.me-info-contact {
     p {
         a {
-            display: inline-block;
+            display: inline-block; // prevent word-break
         }
     }
 }
+
+
 // 404 error page
 // --------------
+
 body.error {
     color: $white;
     background-color: $crimson;

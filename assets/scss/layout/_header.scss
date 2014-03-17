@@ -1,73 +1,71 @@
-body > header {
+.page-navigation {
     text-align: center;
     padding: rem(10px);
-    a#logo {
-        display: inline-block;
-        line-height: 0;
-        img, svg {
-            height: rem(160px);
-            width: rem(160px);
-            fill: $crimson;
-            &:hover, &:active {
-                fill: $violet;
+}
+
+.page-navigation-logo {
+    display: inline-block;
+    line-height: 0;
+    img, svg {
+        height: rem(160px);
+        width: rem(160px);
+        fill: $crimson;
+        &:hover, &:active {
+            fill: $violet;
+        }
+    }
+}
+
+nav.page-navigation-menu {
+    @include fixed(top 0 right 0);
+    z-index: 2;
+    font-size: rem(20px);
+    @include single-transition(right, $fast);
+    &:target {
+        right: 8rem;
+        a.open {
+            display: none;
+        }
+        a.close {
+            display: block;
+        }
+    }
+    ul {
+        background-color: $crimson;
+        height: auto;
+        margin: 0;
+        @include absolute(top 0 left 0); // 40px
+        li {
+            display: block;
+            a {
+                width: rem(128px);
             }
         }
     }
-    nav#menu {
-        @include fixed(top 0 right 0);
-        z-index: 2;
-        font-size: rem(20px);
-        &:target {
-            a.open {
-                display: none;
-            }
-            a.close {
-                display: block;
-            }
-            ul {
-                visibility: visible;
-                @include opacity(1);
-                // display: block;
-            }
+    a {
+        color: $white;
+        background-color: $crimson;
+        line-height: rem(40px);
+        padding: 0 rem(10px);
+        display: block;
+        text-decoration: none;
+        text-align: left;
+        &:hover {
+            background-color: $violet;
         }
-        ul {
-            visibility: hidden;
-            @include opacity(0);
-            // display: none;
-            background-color: $crimson;
-            height: auto;
-            margin: 0;
-            @include absolute(top 2.5rem right 0); // 40px
-            @include single-transition(opacity, $fast);
-            li {
-                display: block;
-                a {
-                    width: rem(128px);
-                }
-            }
-        }
-        a {
-            color: $white;
-            background-color: $crimson;
-            line-height: rem(40px);
-            padding: 0 rem(10px);
-            display: block;
-            text-decoration: none;
-            text-align: left;
-            &:hover {
-                background-color: $violet;
-            }
-        }
-        a.close {
-            display: none;
-        }
-        hr {
-            display: block;
-            border: none;
-            width: 100%;
-            height: rem(1px);
-            background-color: $white;
-            margin: 0 auto;
-        }
+    }
+    a.close, a.open {
+        @include absolute(top 0 right 0);
+    }
+    a.close {
+        display: none;
+    }
+    hr {
+        display: block;
+        border: none;
+        width: 100%;
+        height: rem(1px);
+        background-color: $white;
+        margin: 0 auto;
     }
 }
