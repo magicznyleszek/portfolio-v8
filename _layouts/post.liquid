@@ -1,4 +1,5 @@
-{% include header.liquid language=page.language %}
+{% include html-begin.liquid %}
+{% include page-header.liquid %}
 
     <section class="page-content page-content-single-post" role="main">
         
@@ -7,10 +8,11 @@
         {{ content }}
 
         <footer class="single-post-meta">
-            <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include date.liquid language=page.language %}</time>
-            {% include project-other-language.liquid language=page.language %}
+            <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include date.liquid %}</time>
+            {% include project-other-language.liquid %}
         </footer>
 
     </section>
 
-{% include footer.liquid %}
+{% include page-footer.liquid %}
+{% include html-end.liquid %}

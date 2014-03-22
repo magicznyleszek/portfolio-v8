@@ -1,5 +1,5 @@
 <header class="page-navigation">
-    <a href="{{ site.url }}{% if include.language == "en-us" %}/en-us{% endif %}" class="page-navigation-logo">
+    <a href="{{ site.url }}{% if page.language == "en-us" %}/en-us{% endif %}" class="page-navigation-logo">
         {% include img/chmurka-logo.svg %}
     </a>
     <nav class="page-navigation-menu" id="menu">
@@ -11,7 +11,7 @@
                     <hr>
                 {% endif %}
                 <li>
-                    {% if include.language == "en-us" %}
+                    {% if page.language == "en-us" %}
                         <a href="{{ link.url-en-us }}">
                             <i class="fa {{ link.icon }} fa-fw"></i> {{ link.name-en-us }}
                         </a>

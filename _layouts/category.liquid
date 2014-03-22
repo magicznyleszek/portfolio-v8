@@ -1,10 +1,11 @@
-{% include header.liquid language=page.language %}
+{% include html-begin.liquid %}
+{% include page-header.liquid %}
 
     <section class="page-content" role="main">
         
-        <h1>{% include category-icon.liquid category=page.category %} {% include category-name.liquid category=page.category language=page.language %}</h1>
+        <h1>{% include category-icon.liquid category=page.category %} {% include category-name.liquid category=page.category %}</h1>
 
-        <p class="category-description">{% include category-description.liquid category=page.category language=page.language %}</p>
+        <p class="category-description">{% include category-description.liquid %}</p>
 
         <section class="projects-list">
             {% for post in site.posts %}{% if post.categories contains page.category %}{% if post.language == page.language %}{% include project-summary.liquid language=post.language %}{% endif %}{% endif %}{% endfor %}
@@ -12,4 +13,5 @@
 
     </section>
 
-{% include footer.liquid %}
+{% include page-footer.liquid %}
+{% include html-end.liquid %}

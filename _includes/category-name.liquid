@@ -1,5 +1,5 @@
 {% for category in site.data.categories %}
-    {% if include.language == "en-us" %}
+    {% if page.language == "en-us" %}
         {% if category.slug == include.category %}
             {{ category.name-en-us }}
         {% endif %}

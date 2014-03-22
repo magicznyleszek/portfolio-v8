@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html class="infinie love for dinosaurs" lang="{{ include.language }}">
+<html class="infinie love for dinosaurs" lang="{{ page.language }}">
 <head>
+
     <!-- stuff -->
     <meta charset="utf-8">
     <meta http-equiv="cleartype" content="on">
@@ -8,7 +9,7 @@
 
     <!-- info -->
     <title>{% include site-title.liquid %}</title>
-    <meta name="description" content="{% if include.language == "en-us" %}{{ site.description-en-us }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{% if page.language == "en-us" %}{{ site.description-en-us }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
     <link rel="author" href="{{ site.url }}/humans.txt">
 
@@ -35,4 +36,3 @@
 </head>
 
 <body{% if page.title == 404 %} class="error"{% endif %}>
-    {% include page-navigation.liquid language=include.language %}

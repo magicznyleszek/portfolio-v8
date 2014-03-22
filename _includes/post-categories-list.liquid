@@ -2,15 +2,15 @@
     <ul>
         {% for category in include.categories %}
             <li>
-                {% if include.language == "pl-pl" %}
+                {% if page.language == "pl-pl" %}
                     <a href="{{ site.url }}/category/{{ category }}">
                         {% include category-icon.liquid category=category %}
-                        <span>{% include category-name.liquid category=category language="pl-pl" %}</span>
+                        <span>{% include category-name.liquid category=category %}</span>
                     </a>
-                {% else if include.language == "en-us" %}
+                {% else if page.language == "en-us" %}
                     <a href="{{ site.url }}/en-us/category/{{ category }}">
                         {% include category-icon.liquid category=category %}
-                        <span>{% include category-name.liquid category=category language="en-us" %}</span>
+                        <span>{% include category-name.liquid category=category %}</span>
                     </a>
                 {% endif %}
             </li>
