@@ -1,7 +1,0 @@
-<h1>{% include category-icon.liquid category=include.category %} {% include category-name.liquid category=include.category language=include.language %}</h1>
-
-<p class="category-description">{% include category-description.liquid category=include.category language=include.language %}</p>
-
-<section class="projects-list">
-    {% for post in site.posts %}{% if post.categories contains include.category %}{% if post.language == include.language %}{% include project-summary.liquid language=post.language %}{% endif %}{% endif %}{% endfor %}
-</section>

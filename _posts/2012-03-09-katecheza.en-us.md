@@ -2,7 +2,7 @@
 title: Katecheza
 thumbnail: katecheza-thumbnail.svg
 categories: [illustration, poster]
-layout: post.en-us
+layout: post
 language: en-us
 permalink: /en-us/project/katecheza
 ---

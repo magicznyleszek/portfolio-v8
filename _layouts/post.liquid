@@ -1,4 +1,4 @@
-{% include header.liquid language="pl-pl" %}
+{% include header.liquid language=page.language %}
 
     <section class="page-content page-content-single-post" role="main">
         
@@ -7,8 +7,8 @@
         {{ content }}
 
         <footer class="single-post-meta">
-            <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include date.liquid language="pl-pl" %}</time>
-            {% include project-other-language.liquid language="pl-pl" %}
+            <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include date.liquid language=page.language %}</time>
+            {% include project-other-language.liquid language=page.language %}
         </footer>
 
     </section>

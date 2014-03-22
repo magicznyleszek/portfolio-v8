@@ -1,11 +1,12 @@
 ---
-layout: default.en-us
+layout: default
+language: en-us
 ---
 
-<h1 id="projects">{% include navigation-icon.liquid link="projects" %} {% include navigation-name.liquid link="projects" language="en-us" %}</h1>
+<h1 id="projects">{% include navigation-icon.liquid link="projects" %} {% include navigation-name.liquid link="projects" language=page.language %}</h1>
 
 <section class="projects-list">
-    {% for post in site.posts %}{% if post.language == "en-us" %}{% include project-summary.liquid language=post.language %}{% endif %}{% endfor %}
+    {% for post in site.posts %}{% if post.language == page.language %}{% include project-summary.liquid language=post.language %}{% endif %}{% endfor %}
 </section>
 
 {% include me.en-us.liquid %}
