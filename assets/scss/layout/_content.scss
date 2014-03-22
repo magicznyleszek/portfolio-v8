@@ -137,33 +137,3 @@ section.me-info-contact {
         }
     }
 }
-
-
-// 404 error page
-// --------------
-
-body.error {
-    color: $white;
-    background-color: $crimson;
-    a#logo {
-        path {
-            fill: $white;
-        }
-        &:hover {
-            path {
-                fill: $white;
-            }
-        }
-    }
-    h1 {
-        color: $crimson;
-        background-color: $white;
-    }
-    a {
-        color: $white;
-        text-decoration: underline;
-        &:hover {
-            text-decoration: none;
-        }
-    }
-}

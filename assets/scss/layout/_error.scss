@@ -1,0 +1,27 @@
+// for 404 error page
+// ------------------
+body.error {
+    color: $white;
+    background-color: $crimson;
+    .page-navigation-logo {
+        path {
+            fill: $white;
+        }
+        &:hover {
+            path {
+                fill: $white;
+            }
+        }
+    }
+    h1 {
+        color: $crimson;
+        background-color: $white;
+    }
+    a {
+        color: $white;
+        text-decoration: underline;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
