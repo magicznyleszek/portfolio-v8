@@ -80,7 +80,7 @@ nav.project-summary-categories-list {
             position: relative;
             a {
                 display: inline-block;
-                &:hover, &:active {
+                &:hover, &:active, &:focus {
                     span {
                         @include opacity(1);
                         visibility: visible;
