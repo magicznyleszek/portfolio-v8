@@ -11,17 +11,3 @@ a {
         color: $violet;
     }
 }
-
-// custom resets
-// -------------
-img, embed, object, video {
-    max-width: 100%;
-}
-::selection {
-    color: $white;
-    background-color: $crimson;
-}
-::-moz-selection {
-    color: $white;
-    background-color: $crimson;
-}

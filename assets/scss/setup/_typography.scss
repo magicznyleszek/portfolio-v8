@@ -66,3 +66,27 @@ em {
 small {
     font-size: 75%;
 }
+
+:focus {
+    outline-color: $crimson;
+    outline-style: auto;
+    outline-width: 0.25rem;
+}
+
+::-moz-focus-inner {
+    border: 0;
+}
+
+img, embed, object, video {
+    max-width: 100%;
+}
+
+::selection {
+    color: $white;
+    background-color: $crimson;
+}
+
+::-moz-selection {
+    color: $white;
+    background-color: $crimson;
+}
