@@ -6,9 +6,9 @@ description-en-us: "A fistful of drawings and projects by Leszek Pietrzak."
 author: "Leszek Pietrzak"
 
 # address settings
-# url: "http://localhost:4000" # development
-# url: "http://0.0.0.0:4000" # development
-url: "http://leszekpietrzak.com"
+url: http://leszekpietrzak.com
+# url: http://localhost:4000 # development
+# url: http://0.0.0.0:4000 # development
 permalink: /project/:title
 
 # site configuration

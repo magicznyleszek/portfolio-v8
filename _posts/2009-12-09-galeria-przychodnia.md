@@ -12,7 +12,7 @@ Strona bardzo prosta, kilka miłych ikonek, uspokajający niebieski kolor -- nie
 
 [![Mockup strony internetowej][galeria-przychodnia-1]][galeria-przychodnia-1]
 
-Oferty były rozsyłane do mediów i potencjalnych sponsorów -- to jedna przykładowa z późniejszego okresu ([również w pdfku]({{ site.url }}/file_download/2/przychodnia-2.pdf)):
+Oferty były rozsyłane do mediów i potencjalnych sponsorów -- to jedna przykładowa z późniejszego okresu:
 
 [![Oferta medialna][galeria-przychodnia-2]][galeria-przychodnia-2]
 
