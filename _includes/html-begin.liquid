@@ -12,6 +12,7 @@
     <meta name="description" content="{% if page.language == "en-us" %}{{ site.description-en-us }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
     <link rel="author" href="{{ site.url }}/humans.txt">
+    <link rel="home" href="{{ site.url }}">
 
     <!-- open graph -->
     <meta property="og:type" content="website">
@@ -33,6 +34,7 @@
     <!-- fonts -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic&subset=latin,latin-ext" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
 </head>
 
 <body{% if page.title == 404 %} class="error"{% endif %}>
