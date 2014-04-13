@@ -10,6 +10,7 @@ section.page-content {
         line-height: 1;
         padding: rem(24px) rem(20px);
         background-color: $boulderLight;
+        @include border-radius(0.25rem);
     }
     time {
         display: inline-block;

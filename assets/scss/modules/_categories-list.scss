@@ -2,13 +2,11 @@ section.page-content-single-post ul.project-summary-categories-list {
     display: inline-block;
     vertical-align: middle;
     margin-left: rem(20px);
-    ul {
-        li {
-            a {
-                color: $boulder;
-                &:hover {
-                    color: $violet;
-                }
+    li {
+        a {
+            color: $boulder;
+            &:hover {
+                color: $violet;
             }
         }
     }
