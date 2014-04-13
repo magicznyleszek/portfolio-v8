@@ -1,0 +1,79 @@
+html {
+    font: 400 #{$baseFontSize}/#{$baseLineHeight} $baseFontFamily;
+    @media screen and (min-width: #{$breakBig}) {
+        font-size: $fontSizeBig;
+    }
+    @media screen and (max-width: #{$breakSmall}) {
+        font-size: $fontSizeSmall;
+    }
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+h1 {
+   font-size: rem(40px);
+}
+
+h2 {
+   font-size: rem(32px);
+}
+
+h3 {
+   font-size: rem(20px);
+}
+
+blockquote {
+    font-style: italic;
+    cite {
+        font-style: normal;
+    }
+}
+
+p, blockquote, ul, ol, time {
+    margin-top: $baseLineHeight * 1rem;
+}
+
+ul, ol {
+    margin-left: rem(20px);
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+small, sub, sup {
+    font-size: 75%;
+}
+
+sub, sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}

@@ -1,8 +1,8 @@
-<header class="page-navigation">
-    <a href="{{ site.url }}{% if page.language == "en-us" %}/en-us{% endif %}" class="page-navigation-logo">
+<header class="page-header" role="banner">
+    <a href="{{ site.url }}{% if page.language == "en-us" %}/en-us{% endif %}" class="page-header-logo">
         {% include img/chmurka-logo.svg %}
     </a>
-    <nav class="page-navigation-menu" id="menu">
+    <nav class="page-navigation-menu" id="menu" role="navigation">
         <a href="#menu" class="open"><i class="fa fa-bars fa-fw"></i></a>
         <a href="#close" class="close"><i class="fa fa-times fa-fw"></i></a>
         <ul>

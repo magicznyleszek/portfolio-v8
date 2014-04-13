@@ -3,13 +3,13 @@
 
     <section class="page-content page-content-single-post" role="main">
         
-        <h1>{{ page.title }}{% include post-categories-list.liquid language=page.language categories=page.categories %}</h1>
+        <h1>{{ page.title }}{% include modules/post-categories-list.liquid language=page.language categories=page.categories %}</h1>
 
         {{ content }}
 
         <footer class="single-post-meta">
-            <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include date.liquid %}</time>
-            {% include project-other-language.liquid %}
+            <time datetime="{{ page.date }}"><i class="fa fa-clock-o"></i> {% include helpers/date.liquid %}</time>
+            {% include helpers/project-other-language.liquid %}
         </footer>
 
     </section>

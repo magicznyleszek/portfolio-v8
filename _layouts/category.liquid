@@ -3,12 +3,12 @@
 
     <section class="page-content" role="main">
         
-        <h1>{% include category-icon.liquid category=page.category %} {% include category-name.liquid category=page.category %}</h1>
+        <h1>{% include helpers/category-icon.liquid category=page.category %} {% include helpers/category-name.liquid category=page.category %}</h1>
 
-        <p class="category-description">{% include category-description.liquid %}</p>
+        <p class="category-description">{% include helpers/category-description.liquid %}</p>
 
         <section class="projects-list">
-            {% for post in site.posts %}{% if post.categories contains page.category %}{% if post.language == page.language %}{% include project-summary.liquid language=post.language %}{% endif %}{% endif %}{% endfor %}
+            {% for post in site.posts %}{% if post.categories contains page.category %}{% if post.language == page.language %}{% include modules/project-summary.liquid language=post.language %}{% endif %}{% endif %}{% endfor %}
         </section>
 
     </section>

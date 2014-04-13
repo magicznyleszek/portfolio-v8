@@ -1,7 +1,0 @@
-{% for post in site.posts %}
-    {% if post.title == page.title %}
-    	{% if post.language != page.language %}
-            <a href="{{ site.url }}{{ post.url }}">{% include navigation-icon.liquid link="language" %} {% if post.language == "pl-pl" %}Polska wersja{% else %}English version{% endif %}</a>
-        {% endif %}
-    {% endif %}
-{% endfor %}

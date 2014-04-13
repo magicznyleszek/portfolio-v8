@@ -1,0 +1,26 @@
+article.project-summary {
+    @include column();
+    padding: rem(24px) rem(20px);
+    vertical-align: bottom;
+    text-align: center;
+    width: rem(256px);
+    @include transition($fast);
+    @media screen and (max-width: #{$breakSmall}) {
+        width: 100%;
+    }
+}
+
+a.project-summary-thumbnail {
+    display: inline-block;
+    line-height: 0;
+    &:hover, &:active {
+        svg {
+            fill: $violet;
+        }
+    }
+    svg {
+        width: rem(216px);
+        height: rem(216px);
+        fill: $boulder;
+    }
+}

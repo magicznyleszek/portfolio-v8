@@ -1,0 +1,16 @@
+section.page-content-single-post {
+    a img {
+        border: rem(2px) solid $boulderLight;
+        @include box-shadow(0 0 0 $boulderLight);
+        @include transition($fast);
+        &:hover {
+            @include box-shadow(rem(5px) rem(5px) 0 $boulderLight);
+        }
+    }
+}
+
+footer.single-post-meta {
+    time + a {
+        margin-left: rem(10px);
+    }
+}
