@@ -1,4 +1,4 @@
-# smutnyleszek.github.io
+# leszekpietrzak.com
 
 This is my bilingual portfolio website running on Jekyll.
 
@@ -11,9 +11,9 @@ My main goals for now are:
 
 1. to use a vanilla Jekyll
 2. to get everything done w/o JS if possible
-3. to support only new browsers
-4. to support all screen sizes ([The Goldilocks Approach](http://goldilocksapproach.com/article/) philosophy)
-5. to translate everything to english
+3. to support all screen sizes ([The Goldilocks Approach](http://goldilocksapproach.com/article/) philosophy)
+4. to translate everything to english
+5. to be future-friendly and past-neutral
 
 ## Contact
 
