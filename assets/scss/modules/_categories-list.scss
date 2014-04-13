@@ -36,6 +36,7 @@ ul.project-summary-categories-list {
                 color: $white;
                 background-color: $violet;
                 padding: 0 rem(8px);
+                @include border-radius(0.25rem);
                 @include absolute(top 1.5rem left 0); // 24px
                 @include opacity(0);
                 visibility: hidden;
