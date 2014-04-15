@@ -28,12 +28,12 @@ Można tu znaleźć wycieczki, ucieczki, wesołe zakłopotanie i wiarę w kosmon
 
 [![Zmory & omamy 9][zmory-and-omamy-9]][zmory-and-omamy-9]
 
-[zmory-and-omamy-1]: {{ site.url }}/assets/img/zmory-and-omamy-1.jpg
-[zmory-and-omamy-2]: {{ site.url }}/assets/img/zmory-and-omamy-2.jpg
-[zmory-and-omamy-3]: {{ site.url }}/assets/img/zmory-and-omamy-3.jpg
-[zmory-and-omamy-4]: {{ site.url }}/assets/img/zmory-and-omamy-4.jpg
-[zmory-and-omamy-5]: {{ site.url }}/assets/img/zmory-and-omamy-5.jpg
-[zmory-and-omamy-6]: {{ site.url }}/assets/img/zmory-and-omamy-6.jpg
-[zmory-and-omamy-7]: {{ site.url }}/assets/img/zmory-and-omamy-7.jpg
-[zmory-and-omamy-8]: {{ site.url }}/assets/img/zmory-and-omamy-8.jpg
-[zmory-and-omamy-9]: {{ site.url }}/assets/img/zmory-and-omamy-9.jpg
+[zmory-and-omamy-1]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-1.jpg
+[zmory-and-omamy-2]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-2.jpg
+[zmory-and-omamy-3]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-3.jpg
+[zmory-and-omamy-4]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-4.jpg
+[zmory-and-omamy-5]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-5.jpg
+[zmory-and-omamy-6]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-6.jpg
+[zmory-and-omamy-7]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-7.jpg
+[zmory-and-omamy-8]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-8.jpg
+[zmory-and-omamy-9]: {{ site.url }}/assets/img/project/zmory-and-omamy/zmory-and-omamy-9.jpg

@@ -24,11 +24,11 @@ Rysunki starych ludzi są ciekawe, bo starzy ludzie mają zmarszczki, które są
 
 [![Starszy pan 6][zmarszczki-8]][zmarszczki-8]
 
-[zmarszczki-1]: {{ site.url }}/assets/img/zmarszczki-1.jpg
-[zmarszczki-2]: {{ site.url }}/assets/img/zmarszczki-2.jpg
-[zmarszczki-3]: {{ site.url }}/assets/img/zmarszczki-3.jpg
-[zmarszczki-4]: {{ site.url }}/assets/img/zmarszczki-4.jpg
-[zmarszczki-5]: {{ site.url }}/assets/img/zmarszczki-5.jpg
-[zmarszczki-6]: {{ site.url }}/assets/img/zmarszczki-6.jpg
-[zmarszczki-7]: {{ site.url }}/assets/img/zmarszczki-7.jpg
-[zmarszczki-8]: {{ site.url }}/assets/img/zmarszczki-8.jpg
+[zmarszczki-1]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-1.jpg
+[zmarszczki-2]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-2.jpg
+[zmarszczki-3]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-3.jpg
+[zmarszczki-4]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-4.jpg
+[zmarszczki-5]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-5.jpg
+[zmarszczki-6]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-6.jpg
+[zmarszczki-7]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-7.jpg
+[zmarszczki-8]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-8.jpg

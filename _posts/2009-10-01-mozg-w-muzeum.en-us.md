@@ -15,6 +15,6 @@ A few years ago as a part of the mandatory college practice, I ended up at the N
 
 [![Poster for classes about brain][mozg-w-muzeum-3]][mozg-w-muzeum-3]
 
-[mozg-w-muzeum-1]: {{ site.url }}/assets/img/mozg-w-muzeum-1.png
-[mozg-w-muzeum-2]: {{ site.url }}/assets/img/mozg-w-muzeum-2.png
-[mozg-w-muzeum-3]: {{ site.url }}/assets/img/mozg-w-muzeum-3.png
+[mozg-w-muzeum-1]: {{ site.url }}/assets/img/project/mozg-w-muzeum/mozg-w-muzeum-1.png
+[mozg-w-muzeum-2]: {{ site.url }}/assets/img/project/mozg-w-muzeum/mozg-w-muzeum-2.png
+[mozg-w-muzeum-3]: {{ site.url }}/assets/img/project/mozg-w-muzeum/mozg-w-muzeum-3.png

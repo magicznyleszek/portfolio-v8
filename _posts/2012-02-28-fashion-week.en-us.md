@@ -21,6 +21,6 @@ In addition to the logo I also created a [brand book]({{ site.url }}/assets/file
 
 This is a logo design for Visual Identifictaion classes with Wojtek Janicki.
 
-[fashion-week-1]: {{ site.url }}/assets/img/fashion-week-1.jpg
-[fashion-week-2]: {{ site.url }}/assets/img/fashion-week-2.jpg
-[fashion-week-3]: {{ site.url }}/assets/img/fashion-week-3.jpg
+[fashion-week-1]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-1.jpg
+[fashion-week-2]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-2.jpg
+[fashion-week-3]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-3.jpg

@@ -15,5 +15,5 @@ I also had this idea to use a tow-stage promotional campaign and hit it witho ev
 
 [![Tajemnica][wiosna-mlodych-11-2]][wiosna-mlodych-11-2]
 
-[wiosna-mlodych-11-1]: {{ site.url }}/assets/img/wiosna-mlodych-11-1.png
-[wiosna-mlodych-11-2]: {{ site.url }}/assets/img/wiosna-mlodych-11-2.png
+[wiosna-mlodych-11-1]: {{ site.url }}/assets/img/project/wiosna-mlodych-11/wiosna-mlodych-11-1.png
+[wiosna-mlodych-11-2]: {{ site.url }}/assets/img/project/wiosna-mlodych-11/wiosna-mlodych-11-2.png

@@ -20,6 +20,6 @@ Oprócz logo powstała również [księga znaku]({{ site.url }}/assets/file/fash
 
 Projekt logo na zajęcia z Identyfikacji Wizualnej z Wojtkiem Janickim.
 
-[fashion-week-1]: {{ site.url }}/assets/img/fashion-week-1.jpg
-[fashion-week-2]: {{ site.url }}/assets/img/fashion-week-2.jpg
-[fashion-week-3]: {{ site.url }}/assets/img/fashion-week-3.jpg
+[fashion-week-1]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-1.jpg
+[fashion-week-2]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-2.jpg
+[fashion-week-3]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-3.jpg

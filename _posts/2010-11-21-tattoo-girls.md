@@ -26,12 +26,12 @@ Próbna seria jakby-kolorowanek z bujnymi dziewczętami i ich urokami. Tatuaże 
 
 [![Tattoo Girl 9][tattoo-girls-9]][tattoo-girls-9]
 
-[tattoo-girls-1]: {{ site.url }}/assets/img/tattoo-girls-1.jpg
-[tattoo-girls-2]: {{ site.url }}/assets/img/tattoo-girls-2.jpg
-[tattoo-girls-3]: {{ site.url }}/assets/img/tattoo-girls-3.jpg
-[tattoo-girls-4]: {{ site.url }}/assets/img/tattoo-girls-4.jpg
-[tattoo-girls-5]: {{ site.url }}/assets/img/tattoo-girls-5.jpg
-[tattoo-girls-6]: {{ site.url }}/assets/img/tattoo-girls-6.jpg
-[tattoo-girls-7]: {{ site.url }}/assets/img/tattoo-girls-7.jpg
-[tattoo-girls-8]: {{ site.url }}/assets/img/tattoo-girls-8.jpg
-[tattoo-girls-9]: {{ site.url }}/assets/img/tattoo-girls-9.jpg
+[tattoo-girls-1]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-1.jpg
+[tattoo-girls-2]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-2.jpg
+[tattoo-girls-3]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-3.jpg
+[tattoo-girls-4]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-4.jpg
+[tattoo-girls-5]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-5.jpg
+[tattoo-girls-6]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-6.jpg
+[tattoo-girls-7]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-7.jpg
+[tattoo-girls-8]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-8.jpg
+[tattoo-girls-9]: {{ site.url }}/assets/img/project/tattoo-girls/tattoo-girls-9.jpg

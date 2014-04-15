@@ -13,5 +13,5 @@ For the classes with Mirek I did a Julius Cesar poster -- a man killed by his ow
 
 [![Magical effect while multiplied][juliusz-cezar-2]][juliusz-cezar-2]
 
-[juliusz-cezar-1]: {{ site.url }}/assets/img/juliusz-cezar-1.png
-[juliusz-cezar-2]: {{ site.url }}/assets/img/juliusz-cezar-2.png
+[juliusz-cezar-1]: {{ site.url }}/assets/img/project/juliusz-cezar/juliusz-cezar-1.png
+[juliusz-cezar-2]: {{ site.url }}/assets/img/project/juliusz-cezar/juliusz-cezar-2.png

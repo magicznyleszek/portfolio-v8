@@ -14,6 +14,6 @@ Parę lat temu w ramach obowiązkowych praktyk na studiach wylądowałem w Muzeu
 
 [![Plakat na zajęcia][mozg-w-muzeum-3]][mozg-w-muzeum-3]
 
-[mozg-w-muzeum-1]: {{ site.url }}/assets/img/mozg-w-muzeum-1.png
-[mozg-w-muzeum-2]: {{ site.url }}/assets/img/mozg-w-muzeum-2.png
-[mozg-w-muzeum-3]: {{ site.url }}/assets/img/mozg-w-muzeum-3.png
+[mozg-w-muzeum-1]: {{ site.url }}/assets/img/project/mozg-w-muzeum/mozg-w-muzeum-1.png
+[mozg-w-muzeum-2]: {{ site.url }}/assets/img/project/mozg-w-muzeum/mozg-w-muzeum-2.png
+[mozg-w-muzeum-3]: {{ site.url }}/assets/img/project/mozg-w-muzeum/mozg-w-muzeum-3.png
