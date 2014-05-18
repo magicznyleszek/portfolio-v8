@@ -15,6 +15,6 @@ Three religious-themed illustrations for classes of Graphical Techniques with Kr
 
 [![Księga Samuela][katecheza-3]][katecheza-3]
 
-[katecheza-1]: {{ site.url }}/assets/img/project/katecheza/katecheza-1.jpg
-[katecheza-2]: {{ site.url }}/assets/img/project/katecheza/katecheza-2.jpg
-[katecheza-3]: {{ site.url }}/assets/img/project/katecheza/katecheza-3.jpg
+[katecheza-1]: {{ site.baseurl }}/assets/img/project/katecheza/katecheza-1.jpg
+[katecheza-2]: {{ site.baseurl }}/assets/img/project/katecheza/katecheza-2.jpg
+[katecheza-3]: {{ site.baseurl }}/assets/img/project/katecheza/katecheza-3.jpg

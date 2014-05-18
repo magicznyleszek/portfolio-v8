@@ -15,12 +15,12 @@ The shape of the logo is based on a few straight lines with some elements not co
 
 [![Logo with anchors][fashion-week-2]][fashion-week-2]
 
-In addition to the logo I also created a [brand book]({{ site.url }}/assets/files/fashion-week-book.pdf), with some cute pictograms inside:
+In addition to the logo I also created a [brand book]({{ site.baseurl }}/assets/files/fashion-week-book.pdf), with some cute pictograms inside:
 
 [![Icons][fashion-week-3]][fashion-week-3]
 
 This is a logo design for Visual Identifictaion classes with Wojtek Janicki.
 
-[fashion-week-1]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-1.jpg
-[fashion-week-2]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-2.jpg
-[fashion-week-3]: {{ site.url }}/assets/img/project/fashion-week/fashion-week-3.jpg
+[fashion-week-1]: {{ site.baseurl }}/assets/img/project/fashion-week/fashion-week-1.jpg
+[fashion-week-2]: {{ site.baseurl }}/assets/img/project/fashion-week/fashion-week-2.jpg
+[fashion-week-3]: {{ site.baseurl }}/assets/img/project/fashion-week/fashion-week-3.jpg

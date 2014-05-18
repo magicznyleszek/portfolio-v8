@@ -1,34 +1,34 @@
 - name: Projekty
-  name-en-us: Projects
+  nameEnUs: Projects
   url: /#projects
-  url-en-us: /en-us/#projects
+  urlEnUs: /en-us/#projects
   slug: projects
   icon: fa-archive
 
 - name: Ja
-  name-en-us: Me
+  nameEnUs: Me
   url: /#me
-  url-en-us: /en-us/#me
+  urlEnUs: /en-us/#me
   slug: me
   icon: fa-quote-right
 
 - name: Kontakt
-  name-en-us: Contact
+  nameEnUs: Contact
   url: /#contact
-  url-en-us: /en-us/#contact
+  urlEnUs: /en-us/#contact
   slug: contact
   icon: fa-envelope
 
 - name: RSS
-  name-en-us: RSS
+  nameEnUs: RSS
   url: /rss.xml
-  url-en-us: /en-us/rss.xml
+  urlEnUs: /en-us/rss.xml
   slug: rss
   icon: fa-rss
 
 - name: English
-  name-en-us: Polski
+  nameEnUs: Polski
   url: /en-us
-  url-en-us: /
+  urlEnUs: /
   slug: language
   icon: fa-flag

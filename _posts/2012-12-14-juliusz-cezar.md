@@ -12,5 +12,5 @@ Na zajęcia u pana Mirka zrobiłem plakat Juliusza Cezara, którego zabiła jego
 
 [![Magiczne efekt po pomnożeniu][juliusz-cezar-2]][juliusz-cezar-2]
 
-[juliusz-cezar-1]: {{ site.url }}/assets/img/project/juliusz-cezar/juliusz-cezar-1.png
-[juliusz-cezar-2]: {{ site.url }}/assets/img/project/juliusz-cezar/juliusz-cezar-2.png
+[juliusz-cezar-1]: {{ site.baseurl }}/assets/img/project/juliusz-cezar/juliusz-cezar-1.png
+[juliusz-cezar-2]: {{ site.baseurl }}/assets/img/project/juliusz-cezar/juliusz-cezar-2.png

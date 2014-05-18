@@ -10,7 +10,7 @@ Byłem ostatnio u Marty i gdzieś w międzyczasie, gdy dostały mi się w ręce 
 
 [![Alfabet Leszka][historia-h-1]][historia-h-1]
 
-[historia-h-1]: {{ site.url }}/assets/img/historia-h-1.png
+[historia-h-1]: {{ site.baseurl }}/assets/img/historia-h-1.png
 
 Nasuwa się kilka obserwacji:
 
@@ -42,6 +42,6 @@ O ile też dobrze pamiętam, to kaligrafowane H z podstawówki jest bardzo kocha
 
 [![Homofobia][historia-h-2]][historia-h-2]
 
-[historia-h-2]: {{ site.url }}/assets/img/historia-h-2.png
+[historia-h-2]: {{ site.baseurl }}/assets/img/historia-h-2.png
 
 Tutaj jednak problem rozwikłany jest bardzo skutecznie i bardzo naokoło -- przy takiej ilości zawijasów czasu na pewno nie zaoszczędzimy. Nie żeby czas był faktycznie marnowany i ważny. Nie żeby łezki w literach były faktycznie niefajne i bezzasadne.

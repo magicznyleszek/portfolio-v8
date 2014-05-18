@@ -1,7 +1,7 @@
 {% for category in site.data.categories %}
     {% if page.language == "en-us" %}
         {% if category.slug == include.category %}
-            {{ category.name-en-us }}
+            {{ category.nameEnUs }}
         {% endif %}
     {% else %}
         {% if category.slug == include.category %}

@@ -25,11 +25,11 @@ Drawing old people is interesting, because of their wrinkles which translates to
 
 [![Starszy pan 6][zmarszczki-8]][zmarszczki-8]
 
-[zmarszczki-1]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-1.jpg
-[zmarszczki-2]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-2.jpg
-[zmarszczki-3]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-3.jpg
-[zmarszczki-4]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-4.jpg
-[zmarszczki-5]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-5.jpg
-[zmarszczki-6]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-6.jpg
-[zmarszczki-7]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-7.jpg
-[zmarszczki-8]: {{ site.url }}/assets/img/project/zmarszczki/zmarszczki-8.jpg
+[zmarszczki-1]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-1.jpg
+[zmarszczki-2]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-2.jpg
+[zmarszczki-3]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-3.jpg
+[zmarszczki-4]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-4.jpg
+[zmarszczki-5]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-5.jpg
+[zmarszczki-6]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-6.jpg
+[zmarszczki-7]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-7.jpg
+[zmarszczki-8]: {{ site.baseurl }}/assets/img/project/zmarszczki/zmarszczki-8.jpg

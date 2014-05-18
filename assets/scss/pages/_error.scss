@@ -3,7 +3,7 @@
 body.error {
     color: $white;
     background-color: $crimson;
-    .page-navigation-logo {
+    .page-header-logo {
         path {
             fill: $white;
         }
@@ -17,11 +17,13 @@ body.error {
         color: $crimson;
         background-color: $white;
     }
-    a {
-        color: $white;
-        text-decoration: underline;
-        &:hover {
-            text-decoration: none;
+    section.error-message {
+        a {
+            color: $white;
+            text-decoration: underline;
+            &:hover {
+                text-decoration: none;
+            }
         }
     }
 }

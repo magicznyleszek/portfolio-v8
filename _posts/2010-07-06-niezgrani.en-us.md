@@ -31,10 +31,10 @@ And a background for the website fitted to the enitre retro concept:
 
 [![Background][niezgrani-7]][niezgrani-7]
 
-[niezgrani-1]: {{ site.url }}/assets/img/project/niezgrani/niezgrani-1.png
-[niezgrani-2]: {{ site.url }}/assets/img/project/niezgrani/niezgrani-2.png
-[niezgrani-3]: {{ site.url }}/assets/img/project/niezgrani/niezgrani-3.png
-[niezgrani-4]: {{ site.url }}/assets/img/project/niezgrani/niezgrani-4.png
-[niezgrani-5]: {{ site.url }}/assets/img/project/niezgrani/niezgrani-5.png
-[niezgrani-6]: {{ site.url }}/assets/img/project/niezgrani/niezgrani-6.png
-[niezgrani-7]: {{ site.url }}/assets/img/project/niezgrani/niezgrani-7.png
+[niezgrani-1]: {{ site.baseurl }}/assets/img/project/niezgrani/niezgrani-1.png
+[niezgrani-2]: {{ site.baseurl }}/assets/img/project/niezgrani/niezgrani-2.png
+[niezgrani-3]: {{ site.baseurl }}/assets/img/project/niezgrani/niezgrani-3.png
+[niezgrani-4]: {{ site.baseurl }}/assets/img/project/niezgrani/niezgrani-4.png
+[niezgrani-5]: {{ site.baseurl }}/assets/img/project/niezgrani/niezgrani-5.png
+[niezgrani-6]: {{ site.baseurl }}/assets/img/project/niezgrani/niezgrani-6.png
+[niezgrani-7]: {{ site.baseurl }}/assets/img/project/niezgrani/niezgrani-7.png

@@ -10,27 +10,27 @@
 
     <!-- info -->
     <title>{% include helpers/site-title.liquid %}</title>
-    <meta name="keywords" content="{% if page.language == "en-us" %}{{ site.keywords-en-us }}{% else %}{{ site.keywords }}{% endif %}">
-    <meta name="description" content="{% if page.language == "en-us" %}{{ site.description-en-us }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="keywords" content="{% if page.language == "en-us" %}{{ site.keywordsEnUs }}{% else %}{{ site.keywords }}{% endif %}">
+    <meta name="description" content="{% if page.language == "en-us" %}{{ site.descriptionEnUs }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
-    <link rel="author" href="{{ site.url }}/humans.txt">
-    <link rel="home" href="{{ site.url }}">
+    <link rel="author" href="{{ site.baseurl }}/humans.txt">
+    <link rel="home" href="{{ site.baseurl }}">
 
     <!-- open graph -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}{% if post.title %}{{ post.title }}{% endif %}">
     <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:url" content="{{ site.url }}">
-    <meta property="og:image" content="{{ site.url }}/assets/img/chmurka-logo-200.png?version=6"/>
+    <meta property="og:url" content="{{ site.baseurl }}">
+    <meta property="og:image" content="{{ site.baseurl }}/assets/img/chmurka-logo-200.png?version=6"/>
 
     <!-- style & viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="{{ site.url }}/assets/css/main.css?version=6" media="all" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/main.css?version=6" media="all" rel="stylesheet">
 
     <!-- icons -->
-    <link rel="icon" href="{{ site.url }}/assets/img/favicon.ico?version=6">
-    <link rel="apple-touch-icon" href="{{ site.url }}/assets/img/chmurka-logo-200.png?version=6">
+    <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico?version=6">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/chmurka-logo-200.png?version=6">
     
     <!-- fonts -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic&subset=latin,latin-ext" rel="stylesheet">

@@ -42,14 +42,14 @@ Właściwie główną działalnością Teatru Bez Vat są warsztaty teatralne pr
 
 [![Plakat na warsztaty teatralne][teatr-bez-vat-4]][teatr-bez-vat-4]
 
-[teatr-bez-vat-1]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-1.jpg
-[teatr-bez-vat-2]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-2.jpg
-[teatr-bez-vat-3]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-3.jpg
-[teatr-bez-vat-4]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-4.jpg
-[teatr-bez-vat-5]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-5.jpg
-[teatr-bez-vat-6]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-6.jpg
-[teatr-bez-vat-7]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-7.jpg
-[teatr-bez-vat-8]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-8.jpg
-[teatr-bez-vat-9]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-9.jpg
-[teatr-bez-vat-10]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-10.jpg
-[teatr-bez-vat-11]: {{ site.url }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-11.jpg
+[teatr-bez-vat-1]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-1.jpg
+[teatr-bez-vat-2]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-2.jpg
+[teatr-bez-vat-3]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-3.jpg
+[teatr-bez-vat-4]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-4.jpg
+[teatr-bez-vat-5]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-5.jpg
+[teatr-bez-vat-6]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-6.jpg
+[teatr-bez-vat-7]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-7.jpg
+[teatr-bez-vat-8]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-8.jpg
+[teatr-bez-vat-9]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-9.jpg
+[teatr-bez-vat-10]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-10.jpg
+[teatr-bez-vat-11]: {{ site.baseurl }}/assets/img/project/teatr-bez-vat/teatr-bez-vat-11.jpg

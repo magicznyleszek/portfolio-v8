@@ -20,7 +20,7 @@ Propozycje wizytówek:
 
 [![Propozycja wizytówki 2][pt-solutions-4]][pt-solutions-4]
 
-[pt-solutions-1]: {{ site.url }}/assets/img/pt-solutions-1.jpg
-[pt-solutions-2]: {{ site.url }}/assets/img/pt-solutions-2.jpg
-[pt-solutions-3]: {{ site.url }}/assets/img/pt-solutions-3.jpg
-[pt-solutions-4]: {{ site.url }}/assets/img/pt-solutions-4.jpg
+[pt-solutions-1]: {{ site.baseurl }}/assets/img/pt-solutions-1.jpg
+[pt-solutions-2]: {{ site.baseurl }}/assets/img/pt-solutions-2.jpg
+[pt-solutions-3]: {{ site.baseurl }}/assets/img/pt-solutions-3.jpg
+[pt-solutions-4]: {{ site.baseurl }}/assets/img/pt-solutions-4.jpg

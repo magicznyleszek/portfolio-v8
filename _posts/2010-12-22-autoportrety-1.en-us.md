@@ -25,11 +25,11 @@ A first series of concrete drawings of the heads of Leszek. The proposal that st
 
 [![Leszek 8][autoportrety-1-8]][autoportrety-1-8]
 
-[autoportrety-1-1]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-1.jpg
-[autoportrety-1-2]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-2.jpg
-[autoportrety-1-3]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-3.jpg
-[autoportrety-1-4]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-4.jpg
-[autoportrety-1-5]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-5.jpg
-[autoportrety-1-6]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-6.jpg
-[autoportrety-1-7]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-7.jpg
-[autoportrety-1-8]: {{ site.url }}/assets/img/project/autoportrety-1/autoportrety-1-8.jpg
+[autoportrety-1-1]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-1.jpg
+[autoportrety-1-2]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-2.jpg
+[autoportrety-1-3]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-3.jpg
+[autoportrety-1-4]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-4.jpg
+[autoportrety-1-5]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-5.jpg
+[autoportrety-1-6]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-6.jpg
+[autoportrety-1-7]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-7.jpg
+[autoportrety-1-8]: {{ site.baseurl }}/assets/img/project/autoportrety-1/autoportrety-1-8.jpg

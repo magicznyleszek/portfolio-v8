@@ -1,7 +1,7 @@
 {% for link in site.data.navigation %}
     {% if page.language == "en-us" %}
         {% if link.slug == include.link %}
-            {{ link.name-en-us }}
+            {{ link.nameEnUs }}
         {% endif %}
     {% else %}
         {% if link.slug == include.link %}

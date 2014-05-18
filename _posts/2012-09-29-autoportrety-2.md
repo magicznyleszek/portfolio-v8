@@ -24,11 +24,11 @@ Druga seria portretów Leszka. Tym razem już bardziej hipsterskie i na temat, a
 
 [![Leszek 8][autoportrety-2-8]][autoportrety-2-8]
 
-[autoportrety-2-1]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-1.jpg
-[autoportrety-2-2]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-2.jpg
-[autoportrety-2-3]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-3.jpg
-[autoportrety-2-4]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-4.jpg
-[autoportrety-2-5]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-5.jpg
-[autoportrety-2-6]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-6.jpg
-[autoportrety-2-7]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-7.jpg
-[autoportrety-2-8]: {{ site.url }}/assets/img/project/autoportrety-2/autoportrety-2-8.jpg
+[autoportrety-2-1]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-1.jpg
+[autoportrety-2-2]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-2.jpg
+[autoportrety-2-3]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-3.jpg
+[autoportrety-2-4]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-4.jpg
+[autoportrety-2-5]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-5.jpg
+[autoportrety-2-6]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-6.jpg
+[autoportrety-2-7]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-7.jpg
+[autoportrety-2-8]: {{ site.baseurl }}/assets/img/project/autoportrety-2/autoportrety-2-8.jpg
