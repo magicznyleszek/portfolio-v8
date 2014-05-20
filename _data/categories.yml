@@ -43,11 +43,20 @@
   slug: logo
   icon: fa-eye
 
-- name: Plakat
-  nameEnUs: Poster
-  description: "Rysowanie-projektowanie plakatów pomaga mi zapanować nad moim toksycznym związkiem z formatem A4."
-  descriptionEnUs: "Drawing-designing posters helps me control the toxic relationship with the A4 paper format."
-  url: /category/poster
-  urlEnUs: /en-us/category/poster
-  slug: poster
-  icon: fa-file-o
+- name: Druk
+  nameEnUs: Print
+  description: "Zawsze miło jest zobaczyć wynik swojej graficznej pracy w formie fizycznego artefaktu, i obserwować jak się zachowuje i zmienia pod wpływem stale zmieniającego się środowiska naturalnego."
+  descriptionEnUs: "It is always nice to see the result of your own graphical work in the form of a physical artifact, and see how it behaves and changes under the influence of an ever-changing natural environment."
+  url: /category/print
+  urlEnUs: /en-us/category/print
+  slug: print
+  icon: fa-print
+
+# - name: Plakat
+#   nameEnUs: Poster
+#   description: "Rysowanie-projektowanie plakatów pomaga mi zapanować nad moim toksycznym związkiem z formatem A4."
+#   descriptionEnUs: "Drawing-designing posters helps me control the toxic relationship with the A4 paper format."
+#   url: /category/poster
+#   urlEnUs: /en-us/category/poster
+#   slug: poster
+#   icon: fa-file-image-o

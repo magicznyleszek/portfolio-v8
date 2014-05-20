@@ -1,7 +1,7 @@
 ---
 title: Teatr Bez Vat
 thumbnail: teatr-bez-vat-thumbnail.svg
-categories: [interface, logo, poster]
+categories: [interface, logo, print]
 layout: post
 language: en-us
 permalink: /en-us/project/teatr-bez-vat

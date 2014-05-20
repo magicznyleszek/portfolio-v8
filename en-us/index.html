@@ -5,6 +5,8 @@ language: en-us
 
 <h1 id="projects">{% include helpers/navigation-icon.liquid link="projects" %} {% include helpers/navigation-name.liquid link="projects" language=page.language %}</h1>
 
+<p class="page-description">A fistful of my freshest projects. Ordered in a chronological fashion, assigned to at least one of categories for convenience and ready for Your observation.</p>
+
 <section class="projects-list">
     {% for post in site.posts %}{% if post.language == page.language %}{% include modules/project-summary.liquid language=post.language %}{% endif %}{% endfor %}
 </section>

@@ -5,7 +5,7 @@
         
         <h1>{% include helpers/category-icon.liquid category=page.category %} {% include helpers/category-name.liquid category=page.category %}</h1>
 
-        <p class="category-description">{% include helpers/category-description.liquid %}</p>
+        <p class="page-description">{% include helpers/category-description.liquid %}</p>
 
         <section class="projects-list">
             {% for post in site.posts %}{% if post.categories contains page.category %}{% if post.language == page.language %}{% include modules/project-summary.liquid language=post.language %}{% endif %}{% endif %}{% endfor %}
