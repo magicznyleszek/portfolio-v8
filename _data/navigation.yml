@@ -3,14 +3,14 @@
   url: /#projects
   urlEnUs: /en-us/#projects
   slug: projects
-  icon: fa-archive
+  icon: fa-cubes
 
 - name: Ja
   nameEnUs: Me
   url: /#me
   urlEnUs: /en-us/#me
   slug: me
-  icon: fa-quote-right
+  icon: fa-male
 
 - name: Kontakt
   nameEnUs: Contact

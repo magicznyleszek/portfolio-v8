@@ -1,3 +1,12 @@
+- name: Kod
+  nameEnUs: Code
+  description: "..."
+  descriptionEnUs: "..."
+  url: /category/code
+  urlEnUs: /en-us/category/code
+  slug: code
+  icon: fa-code
+
 - name: Ikona
   nameEnUs: Icon
   description: "Małe piktogramy wynaukowione w 1975 roku są przyjemnym ćwiczeniem w upraszczaniu, porządkowaniu i odrębnym przystawaniu. Oczywiście tylko odpowiednio geometryczną paletą buduje się drogę do ikonowej nirwany."
@@ -32,7 +41,7 @@
   url: /category/lettering
   urlEnUs: /en-us/category/lettering
   slug: lettering
-  icon: fa-align-left
+  icon: fa-font
 
 - name: Logo
   nameEnUs: Logo
@@ -43,15 +52,6 @@
   slug: logo
   icon: fa-eye
 
-- name: Druk
-  nameEnUs: Print
-  description: "Zawsze miło jest zobaczyć wynik swojej graficznej pracy w formie fizycznego artefaktu, i obserwować jak się zachowuje i zmienia pod wpływem stale zmieniającego się środowiska naturalnego."
-  descriptionEnUs: "It is always nice to see the result of your own graphical work in the form of a physical artifact, and see how it behaves and changes under the influence of an ever-changing natural environment."
-  url: /category/print
-  urlEnUs: /en-us/category/print
-  slug: print
-  icon: fa-print
-
 # - name: Plakat
 #   nameEnUs: Poster
 #   description: "Rysowanie-projektowanie plakatów pomaga mi zapanować nad moim toksycznym związkiem z formatem A4."
@@ -60,3 +60,12 @@
 #   urlEnUs: /en-us/category/poster
 #   slug: poster
 #   icon: fa-file-image-o
+
+- name: Druk
+  nameEnUs: Print
+  description: "Zawsze miło jest zobaczyć wynik swojej graficznej pracy w formie fizycznego artefaktu, i obserwować jak się zachowuje i zmienia pod wpływem stale zmieniającego się środowiska naturalnego."
+  descriptionEnUs: "It is always nice to see the result of your own graphical work in the form of a physical artifact, and see how it behaves and changes under the influence of an ever-changing natural environment."
+  url: /category/print
+  urlEnUs: /en-us/category/print
+  slug: print
+  icon: fa-print
