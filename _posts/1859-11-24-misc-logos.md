@@ -8,6 +8,8 @@ language: pl-pl
 
 Zbiór pojedynczych logo ze zleceń, zajęć na uczelni i kilku konkursów.
 
+[![krakow-2022][misc-logos-17]][misc-logos-17]
+
 [![cert-pl][misc-logos-16]][misc-logos-16]
 
 [![ex-libris-wesola][misc-logos-15]][misc-logos-15]
@@ -59,3 +61,4 @@ Zbiór pojedynczych logo ze zleceń, zajęć na uczelni i kilku konkursów.
 [misc-logos-14]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-14-margin-zero-auto.png
 [misc-logos-15]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-15-ex-libris-wesola.png
 [misc-logos-16]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-16-cert-pl.png
+[misc-logos-17]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-17-krakow-2022.png
