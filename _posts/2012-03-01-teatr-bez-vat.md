@@ -1,7 +1,7 @@
 ---
 title: Teatr Bez Vat
 thumbnail: teatr-bez-vat-thumbnail.svg
-categories: [interface, logo, print]
+categories: [code, interface, logo, print]
 layout: post
 language: pl-pl
 ---
@@ -18,7 +18,7 @@ A to stare, pierwsze logo:
 
 [![Stare logo][teatr-bez-vat-3]][teatr-bez-vat-3]
 
-[Stronę internetową teatru](http://bezvat.art.pl/) zaprojektowałem w bardzo prostej formie, dzięki czemu treść wychodzi na plan pierwszy.
+[Stronę internetową teatru](http://bezvat.art.pl/) zaprojektowałem w bardzo prostej formie, dzięki czemu treść wychodzi na plan pierwszy. Kod to prosty, pozbawiony CMSa PHP z jedną miłą funkcją do wypluwania obrazków z folderków.
 
 [![Strona internetowa][teatr-bez-vat-11]][teatr-bez-vat-11]
 

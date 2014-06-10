@@ -1,7 +1,7 @@
 ---
 title: Teatr Bez Vat
 thumbnail: teatr-bez-vat-thumbnail.svg
-categories: [interface, logo, print]
+categories: [code, interface, logo, print]
 layout: post
 language: en-us
 permalink: /en-us/project/teatr-bez-vat
@@ -19,7 +19,7 @@ This is the old logo:
 
 [![Old logo][teatr-bez-vat-3]][teatr-bez-vat-3]
 
-I designed [the website](http://bezvat.art.pl/) in a rather simplistic form, to make it more informational and clean.
+I designed [the website](http://bezvat.art.pl/) in a rather simplistic form, to make it more informational and clean. Code is a simple, CMS-less PHP with one nice function for printing images from separate directories.
 
 [![Website][teatr-bez-vat-11]][teatr-bez-vat-11]
 

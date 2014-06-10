@@ -44,7 +44,6 @@ A collection of logos from jobs, classes at the university and several contests.
 
 
 [misc-logos-01]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-01-mozg-w-muzeum.png
-
 [misc-logos-01]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-01-mozg-w-muzeum.png
 [misc-logos-02]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-02-landkite.png
 [misc-logos-03]: {{ site.baseurl }}/assets/img/project/misc-logos/misc-logos-03-spichlerz-polskiego-rocka.png

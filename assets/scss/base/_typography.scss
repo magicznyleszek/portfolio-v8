@@ -40,6 +40,13 @@ p, blockquote, ul, ol, time {
     margin-top: $baseLineHeight * 1rem;
 }
 
+blockquote {
+    font-style: italic;
+    cite {
+        font-style: normal;
+    }
+}
+
 ul, ol {
     margin-left: rem(20px);
 }
@@ -58,6 +65,22 @@ strong {
 
 em {
     font-style: italic;
+}
+
+code {
+    font-family: $code;
+    font-size: 90%;
+    background-color: $boulderLight;
+    padding: 0 0.125rem;
+    @include border-radius(0.25rem);
+}
+
+pre {
+    code {
+        @include column();
+        overflow-x: auto;
+        padding: 0.5rem;
+    }
 }
 
 small, sub, sup {
