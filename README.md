@@ -9,11 +9,12 @@ You can check it out at [leszekpietrzak.com](http://leszekpietrzak.com).
 
 My main goals for now are:
 
-1. to use a vanilla Jekyll
-2. to get everything done w/o JS if possible
+1. to use `--safe` Jekyll
+2. to get things done w/o JavaScript if possible
 3. to support all screen sizes ([The Goldilocks Approach](http://goldilocksapproach.com/article/) philosophy)
 4. to translate everything to english
 5. to be future-friendly and past-neutral
+
 
 ## Contact
 
