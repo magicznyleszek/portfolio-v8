@@ -8,7 +8,7 @@ language: pl-pl
 
 Zbiór kilku projektów stron internetowych.
 
-[Mała strona-gra z okazji świąt](http://www.closbrothers.pl/wesolych-swiat-2013/) w ramach pracy w Clos Brothers. Wszystko zostało zaprojektowane modułowo w pojedynczych plikach `.ai`, dzięki czemu łatwiej było zachować porządek w głównym pliku.
+[Mała strona-gra z okazji świąt](http://www.closbrothers.pl/wesolych-swiat-2013/) w ramach pracy w [Clos Brothers](http://closbrothers.pl). Wszystko zostało zaprojektowane modułowo w pojedynczych plikach `.ai`, dzięki czemu łatwiej było zachować porządek w głównym pliku. Oczywisty wpływ metodologii frontendowej na sposób pracy graficznej.
 
 [![clos-kartka-1][misc-websites-05]][misc-websites-05]
 
@@ -22,7 +22,7 @@ Projekt odświeżający stronę [Polish Convention Bureau](http://www.poland-con
 
 [![pcb-mobile-1][misc-websites-03]][misc-websites-03]
 
-Projekt dla [Instytutu Psychoanalizy i Psychoterapii](http://www.ipp.waw.pl/), wdrażany przez stażystę.
+Projekt dla [Instytutu Psychoanalizy i Psychoterapii](http://www.ipp.waw.pl/) w trakcie mojego pobytu w [Trewebs](http://trewebs.com), wdrażany przez stażystę.
 
 [![ipp][misc-websites-02]][misc-websites-02]
 

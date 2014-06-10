@@ -7,9 +7,9 @@ language: en-us
 permalink: /en-us/project/misc-websites
 ---
 
-Zbiór kilku projektów stron internetowych.
+A collection of several mockups for websites.
 
-[Mała strona-gra z okazji świąt](http://www.closbrothers.pl/wesolych-swiat-2013/) w ramach pracy w Clos Brothers. Wszystko zostało zaprojektowane modułowo w pojedynczych plikach `.ai`, dzięki czemu łatwiej było zachować porządek w głównym pliku.
+[Small game-site for Christmas](http://www.closbrothers.pl/wesolych-swiat-2013/) as a part of work in [Clos Brothers](http://closbrothers.pl). Everything has been designed modularly in individual `.ai` files, so that it was easier to keep order in the main file. The obvious influence of the frontend-development methodologies on the graphical work.
 
 [![clos-kartka-1][misc-websites-05]][misc-websites-05]
 
@@ -17,13 +17,13 @@ Zbiór kilku projektów stron internetowych.
 
 [![clos-kartka-3][misc-websites-07]][misc-websites-07]
 
-Projekt odświeżający stronę [Polish Convention Bureau](http://www.poland-convention.pl/) z uwzględnieniem urządzeń mobilnych i migracją do nowej wersji Joomli (bleh), który z nieznanych korporacyjnych powodów nie został wprowadzony w życie.
+A refreshment project for [Polish Convention Bureau](http://www.poland-convention.pl/) with mobile devices taken into account and a migration to the new release of Joomla (bleh), which for unknown corporate reasons has not been updated on the production environment.
 
 [![pcb-mobile-2][misc-websites-04]][misc-websites-04]
 
 [![pcb-mobile-1][misc-websites-03]][misc-websites-03]
 
-Projekt dla [Instytutu Psychoanalizy i Psychoterapii](http://www.ipp.waw.pl/), wdrażany przez stażystę.
+A project for [Instytut Psychoanalizy i Psychoterapii](http://www.ipp.waw.pl/) during my stay at [Trewebs](http://trewebs.com), implemented by the intern at Trewebs.
 
 [![ipp][misc-websites-02]][misc-websites-02]
 
