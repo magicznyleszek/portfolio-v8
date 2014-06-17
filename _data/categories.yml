@@ -1,7 +1,7 @@
 - name: Kod
   nameEnUs: Code
-  description: "Własnoręczne pisanie kodu jest czymś bardzo filozoficznym -- porządkowanie i kategoryzowanie myśli, optymalizacja w poszukiwaniu ideału i nieustanna falsyfikacja -- nieświadomie wzbogaca życiową mądrość."
-  descriptionEnUs: "Hand-writing code is something strongly philosophical -- organizing and categorizing thoughts, optimization in search of the ideal and constant falsification -- unwittingly enriches life wisdom."
+  description: "Własnoręczne pisanie kodu jest czymś bardzo filozoficznym -- porządkowanie i kategoryzowanie myśli, optymalizacja w poszukiwaniu ideału i nieustanna falsyfikacja -- i nieświadomie wzbogaca życiową mądrość."
+  descriptionEnUs: "Hand-writing code is something strongly philosophical -- organizing and categorizing thoughts, optimization in search of the ideal and constant falsification -- and unwittingly enriches life wisdom."
   urlEnUs: /en-us/category/code
   slug: code
   icon: fa-code
