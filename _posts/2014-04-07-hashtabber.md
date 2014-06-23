@@ -8,6 +8,8 @@ language: pl-pl
 
 [HashTabber](http://hashtabber.smutnyleszek.com) to prosty plugin `JavaScript` do zakładkowej nawigacji z uwzględnieniem *hashowych* linków.
 
+Plugin został [wyróżniony w repozytorium jquer.in](http://jquer.in/javascript-frameworks-for-developing-rich-applications/hashtabber/).
+
 W wolnej chwili zbudowałem proste logo bazujące na kształtach znaków "#" i "T" oraz samym interfejsie zakładkowym. Wizualnie ubrałem go w jadeitową zieleń i przestrzeń cieplejszych szarości.
 
 [![logo][hashtabber-01]][hashtabber-01]
