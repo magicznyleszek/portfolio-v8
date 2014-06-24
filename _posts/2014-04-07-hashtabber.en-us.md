@@ -9,7 +9,13 @@ permalink: /en-us/project/hashtabber
 
 [HashTabber](http://hashtabber.smutnyleszek.com) is a simple `JavaScript` plugin for tabbed navigation with hash-driven links.
 
-The plugin was featured on [unheap.com](http://www.unheap.com/navigation/horizontal-tabbed/hashtabber/), [jquery-plugins.net](http://jquery-plugins.net/hashtabber-simple-hashchange-driven-tabbed-navigation) and [jquer.in](http://jquer.in/javascript-frameworks-for-developing-rich-applications/hashtabber/).
+The plugin was featured i.a. on:
+
+- [unheap.com](http://www.unheap.com/navigation/horizontal-tabbed/hashtabber/)
+- [jquer.in](http://jquer.in/javascript-frameworks-for-developing-rich-applications/hashtabber/)
+- [jquery-plugins.net](http://jquery-plugins.net/hashtabber-simple-hashchange-driven-tabbed-navigation)
+- [jqueryscript.net](http://www.jqueryscript.net/blog/10-New-jQuery-Plugins-You-Have-To-See.html)
+- [jplugins.net](http://www.jplugins.net/hashtabber/)
 
 In some free time I built a simple logo based on the shapes of "#" and "T" characters and the tabbed interface itself. Visually, I dressed it in jade green and some warmer grays.
 

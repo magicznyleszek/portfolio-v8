@@ -8,7 +8,13 @@ language: pl-pl
 
 [HashTabber](http://hashtabber.smutnyleszek.com) to prosty plugin `JavaScript` do zakładkowej nawigacji z uwzględnieniem *hashowych* linków.
 
-Plugin został wyróżniony na [unheap.com](http://www.unheap.com/navigation/horizontal-tabbed/hashtabber/), [jquery-plugins.net](http://jquery-plugins.net/hashtabber-simple-hashchange-driven-tabbed-navigation) oraz [jquer.in](http://jquer.in/javascript-frameworks-for-developing-rich-applications/hashtabber/).
+Plugin został wyróżniony m.in. na:
+
+- [unheap.com](http://www.unheap.com/navigation/horizontal-tabbed/hashtabber/)
+- [jquer.in](http://jquer.in/javascript-frameworks-for-developing-rich-applications/hashtabber/)
+- [jquery-plugins.net](http://jquery-plugins.net/hashtabber-simple-hashchange-driven-tabbed-navigation)
+- [jqueryscript.net](http://www.jqueryscript.net/blog/10-New-jQuery-Plugins-You-Have-To-See.html)
+- [jplugins.net](http://www.jplugins.net/hashtabber/)
 
 W wolnej chwili zbudowałem proste logo bazujące na kształtach znaków "#" i "T" oraz samym interfejsie zakładkowym. Wizualnie ubrałem go w jadeitową zieleń i przestrzeń cieplejszych szarości.
 
