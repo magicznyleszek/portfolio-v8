@@ -12,8 +12,11 @@ baseurl: http://leszekpietrzak.com
 permalink: /project/:title
 
 # site configuration
-encoding: utf-8
-markdown: rdiscount
-future: true
 safe: true
-paginate: 9000
+quiet: false
+future: true
+encoding: utf-8
+markdown: kramdown
+kramdown:
+    auto_ids: false
+timezone: Europe/Warsaw
