@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Kod",
+        "nameEnUs": "Code",
+        "description": "Własnoręczne pisanie kodu jest czymś bardzo filozoficznym -- porządkowanie i kategoryzowanie myśli, optymalizacja w poszukiwaniu ideału i nieustanna falsyfikacja -- i nieświadomie wzbogaca życiową mądrość.",
+        "descriptionEnUs": "Hand-writing code is something strongly philosophical -- organizing and categorizing thoughts, optimization in search of the ideal and constant falsification -- and unwittingly enriches life wisdom.",
+        "urlEnUs": "/en-us/category/code",
+        "slug": "code",
+        "icon": "fa-code"
+    },
+    {
+        "name": "Ikona",
+        "nameEnUs": "Icon",
+        "description": "Małe piktogramy wynaukowione w 1975 roku są przyjemnym ćwiczeniem w upraszczaniu, porządkowaniu i odrębnym przystawaniu. Oczywiście tylko odpowiednio geometryczną paletą buduje się drogę do ikonowej nirwany.",
+        "descriptionEnUs": "Small pictograms scienced-up in 1975, are a pleasant exercise in simplifying, organizing and distinct similiarizing. Of course, only with the properly geometric palette you will be able to build a path to the iconic nirvana.",
+        "url": "/category/icon",
+        "urlEnUs": "/en-us/category/icon",
+        "slug": "icon",
+        "icon": "fa-comment-o"
+    },
+    {
+        "name": "Ilustracja",
+        "nameEnUs": "Illustration",
+        "description": "Po początkowych 20 latach posuchy, dopiero mało-absorbującym (nudnym) wykładom z Kulturoznawstwa udało się odblokować moją głowę i ręce na rysowanie. A skończyło się na tym, że moimi ulubieńcami zostali: czarny atrament i ludzkie twarze.",
+        "descriptionEnUs": "After the initial 20 years of drought, only the low-absorbing (boring) classes at Cultural Studies were able to open my head and hands for drawing. And it ended up with me loving black ink and human heads.",
+        "url": "/category/illustration",
+        "urlEnUs": "/en-us/category/illustration",
+        "slug": "illustration",
+        "icon": "fa-pencil"
+    },
+    {
+        "name": "Interfejs",
+        "nameEnUs": "Interface",
+        "description": "W przepastnym świecie grafiki projektowej nie ma chyba nic tak aktualnego, fascynującego, pełnego życia i przemijających teorii, jak projektowanie interfejsów.",
+        "descriptionEnUs": "In the immense world of graphic design, there is probably nothing as actual, fascinating, full of life and vanishing theories, as interface design.",
+        "url": "/category/interface",
+        "urlEnUs": "/en-us/category/interface",
+        "slug": "interface",
+        "icon": "fa-sitemap"
+    },
+    {
+        "name": "Liternictwo",
+        "nameEnUs": "Lettering",
+        "description": "Niewiele rzeczy przebija akt własnoręcznego stawiania liter na papierze, a możliwość budowania ich z dokładnością w okolicach 6000% to zupełnie nowy poziom przyjemności.",
+        "descriptionEnUs": "Nothing beats the act of putting down letters on paper by your own hand, and the ability to build them with an accuracy of around 6000% is just a new level of pleasure.",
+        "url": "/category/lettering",
+        "urlEnUs": "/en-us/category/lettering",
+        "slug": "lettering",
+        "icon": "fa-font"
+    },
+    {
+        "name": "Logo",
+        "nameEnUs": "Logo",
+        "description": "W symbolach najfajniejsze jest to, że cały lewiatan informacji, bazgrołów i matematyki spotyka się w jednej prokreacyjnej implozji i finiszuje minimalistycznym komunikatem prosto na twarz.",
+        "descriptionEnUs": "The best thing about symbols is that the whole leviathan of information, doodle and mathematics meets in one procreative implosion and finishes with minimalistic message straight to the face.",
+        "url": "/category/logo",
+        "urlEnUs": "/en-us/category/logo",
+        "slug": "logo",
+        "icon": "fa-eye"
+    },
+    {
+        "name": "Druk",
+        "nameEnUs": "Print",
+        "description": "Zawsze miło jest zobaczyć wynik swojej graficznej pracy w formie fizycznego artefaktu, i obserwować jak się zachowuje i zmienia pod wpływem stale zmieniającego się środowiska naturalnego.",
+        "descriptionEnUs": "It is always nice to see the result of your own graphical work in the form of a physical artifact, and see how it behaves and changes under the influence of an ever-changing natural environment.",
+        "url": "/category/print",
+        "urlEnUs": "/en-us/category/print",
+        "slug": "print",
+        "icon": "fa-print"
+    }
+]

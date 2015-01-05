@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Projekty",
+        "nameEnUs": "Projects",
+        "url": "/#projects",
+        "urlEnUs": "/en-us/#projects",
+        "slug": "projects",
+        "icon": "fa-cubes"
+    },
+    {
+        "name": "Ja",
+        "nameEnUs": "Me",
+        "url": "/#me",
+        "urlEnUs": "/en-us/#me",
+        "slug": "me",
+        "icon": "fa-male"
+    },
+    {
+        "name": "Kontakt",
+        "nameEnUs": "Contact",
+        "url": "/#contact",
+        "urlEnUs": "/en-us/#contact",
+        "slug": "contact",
+        "icon": "fa-envelope"
+    },
+    {
+        "name": "RSS",
+        "nameEnUs": "RSS",
+        "url": "/rss.xml",
+        "urlEnUs": "/en-us/rss.xml",
+        "slug": "rss",
+        "icon": "fa-rss"
+    },
+    {
+        "name": "English",
+        "nameEnUs": "Polski",
+        "url": "/en-us",
+        "urlEnUs": "/",
+        "slug": "language",
+        "icon": "fa-flag"
+    }
+]
