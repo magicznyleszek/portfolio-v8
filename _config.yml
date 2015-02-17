@@ -8,7 +8,7 @@ keywordsEnUs: "code, icon, illustration, interface, lettering, logo, poster, pri
 author: "Leszek Pietrzak"
 
 # address settings
-baseurl: http://leszekpietrzak.com
+url: http://leszekpietrzak.com
 permalink: /project/:title
 
 # site configuration
