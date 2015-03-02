@@ -17,7 +17,7 @@ My main goals for now are:
 
 ## New version ideas
 
-This is probably the 6th version of l-p.com, so next will be 7th.
+This is the 8th version of the site, so next will be 9th.
 
 Todo:
 
