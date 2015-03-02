@@ -15,6 +15,26 @@ My main goals for now are:
 4. Be future-friendly and past-neutral.
 
 
+## New version ideas
+
+This is probably the 6th version of l-p.com, so next will be 7th.
+
+Todo:
+
+- Move from Font Awesome to self-made SVG icons
+- Drop Polish language
+- Drop RSS
+- Add grunt to workflow
+- Add responsive images
+- Add post descriptions for meta-tags
+- Move project-images to gallery section
+- Improve styles:
+    - Text links underlined
+    - Better navigation
+- Optimization
+- Probably move from leszekpietrzak.com (add redirect-link) to smutnyleszek.com
+
+
 ## Contact
 
 You can contact me at [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com).
