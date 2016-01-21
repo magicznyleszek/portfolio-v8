@@ -18,6 +18,7 @@ The plugin was featured i.a. on:
 - [jplugins.net](http://www.jplugins.net/hashtabber/)
 - [softpedia.com](http://webscripts.softpedia.com/script/Menus-Navigation/HashTabber-83059.html)
 - [bestplugins.com](http://www.bestplugins.com/articles/jquery-plugins.html/)
+- [jqueryplugins.net](http://jqueryplugins.net/hashtabber-simple-javascript-hashchange-tabbed-navigation)
 
 In some free time I built a simple logo based on the shapes of "#" and "T" characters and the tabbed interface itself. Visually, I dressed it in jade green and some warmer grays.
 
