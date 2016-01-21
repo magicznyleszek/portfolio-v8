@@ -17,6 +17,7 @@ Plugin został wyróżniony m.in. na:
 - [jplugins.net](http://www.jplugins.net/hashtabber/)
 - [softpedia.com](http://webscripts.softpedia.com/script/Menus-Navigation/HashTabber-83059.html)
 - [bestplugins.com](http://www.bestplugins.com/articles/jquery-plugins.html/)
+- [jqueryplugins.net](http://jqueryplugins.net/hashtabber-simple-javascript-hashchange-tabbed-navigation)
 
 W wolnej chwili zbudowałem proste logo bazujące na kształtach znaków "#" i "T" oraz samym interfejsie zakładkowym. Wizualnie ubrałem go w jadeitową zieleń i przestrzeń cieplejszych szarości.
 
